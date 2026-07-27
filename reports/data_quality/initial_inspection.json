@@ -1,0 +1,149 @@
+{
+  "raw_files": {
+    "scores_csv": "data/raw/mavedb/scores.csv",
+    "metadata_json": "data/raw/mavedb/score_set_metadata.json",
+    "mapped_variants_json": "data/raw/mavedb/mapped_variants.json",
+    "reference_fasta": "data/raw/reference/NP_000229.1.fasta"
+  },
+  "reference": {
+    "accession": "NP_000229.1",
+    "expected_gene": "KCNH2",
+    "length": 1159
+  },
+  "scores_csv": {
+    "rows": 22824,
+    "columns": 25,
+    "column_names": [
+      "accession",
+      "hgvs_nt",
+      "hgvs_splice",
+      "hgvs_pro",
+      "score",
+      "se",
+      "LLR",
+      "LLR_ci_lower",
+      "LLR_ci_upper",
+      "LLR_evidence_strength",
+      "score_numeric",
+      "hgvs_pro_normalized",
+      "variant_class",
+      "variant_component_count",
+      "wt_aa3",
+      "wt_aa1",
+      "position",
+      "mut_aa3",
+      "mut_aa1",
+      "variant_id",
+      "reference_position_valid",
+      "reference_residue",
+      "ref_match",
+      "protein_variant_duplicate",
+      "eligible_simple_missense"
+    ],
+    "original_column_names": [
+      "accession",
+      "hgvs_nt",
+      "hgvs_splice",
+      "hgvs_pro",
+      "score",
+      "se",
+      "LLR",
+      "LLR_ci_lower",
+      "LLR_ci_upper",
+      "LLR_evidence_strength"
+    ],
+    "numeric_score_count": 22824,
+    "missing_score_count": 0,
+    "score_parse_failure_count": 0,
+    "unique_hgvs_pro": 22824,
+    "unique_simple_missense_ids": 20683,
+    "duplicate_simple_missense_rows": 0,
+    "variant_class_counts": {
+      "simple_missense": 20683,
+      "stop_gained": 1084,
+      "synonymous": 1057
+    },
+    "multi_variant_rows": 0,
+    "simple_missense_rows": 20683,
+    "reference_match_count": 20683,
+    "reference_mismatch_count": 0,
+    "eligible_normalized_rows": 20683,
+    "score_summary": {
+      "descriptive_statistics": {
+        "count": 22824.0,
+        "mean": 73.42457981361251,
+        "std": 46.960360003788466,
+        "min": 0.0,
+        "1%": 0.0,
+        "5%": 0.0,
+        "25%": 32.36015669,
+        "50%": 85.05731439,
+        "75%": 107.92972830000001,
+        "95%": 137.6418571,
+        "99%": 165.8016942,
+        "max": 352.1873537
+      },
+      "skewness": -0.33735753485265163,
+      "kurtosis": -0.8836199307174675,
+      "iqr": 75.56957161000001,
+      "iqr_lower_limit": -80.99420072500001,
+      "iqr_upper_limit": 221.284085715,
+      "iqr_outlier_count": 4,
+      "unique_numeric_scores": 11694,
+      "score_direction_interpreted": false,
+      "note": "These statistics describe scale and distribution only. The biological direction of the score must be determined from the experiment metadata and publication."
+    }
+  },
+  "score_set_metadata": {
+    "json_structure": {
+      "top_level_type": "dictionary",
+      "top_level_key_count": 30,
+      "top_level_keys": [
+        "title",
+        "methodText",
+        "abstractText",
+        "shortDescription",
+        "extraMetadata",
+        "recordType",
+        "urn",
+        "numVariants",
+        "license",
+        "supersededScoreSet",
+        "metaAnalyzesScoreSetUrns",
+        "metaAnalyzedByScoreSetUrns",
+        "doiIdentifiers",
+        "primaryPublicationIdentifiers",
+        "secondaryPublicationIdentifiers",
+        "publishedDate",
+        "creationDate",
+        "modificationDate",
+        "createdBy",
+        "modifiedBy",
+        "targetGenes",
+        "datasetColumns",
+        "externalLinks",
+        "contributors",
+        "scoreCalibrations",
+        "experiment",
+        "officialCollections",
+        "private",
+        "processingState",
+        "mappingState"
+      ]
+    },
+    "contains_KCNH2_text": true,
+    "contains_reference_accession_text": false
+  },
+  "mapped_variants": {
+    "json_structure": {
+      "top_level_type": "list",
+      "top_level_length": 45648,
+      "first_item_type": "dict"
+    },
+    "note": "Mapped VRS variants are inspected structurally here. They are not yet merged into the normalized table."
+  },
+  "outputs": {
+    "qc_dataset": "data/interim/kcnh2_variants_qc.parquet",
+    "normalized_dataset": "data/interim/kcnh2_variants_normalized.parquet"
+  }
+}
