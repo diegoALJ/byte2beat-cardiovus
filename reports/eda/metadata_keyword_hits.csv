@@ -1,0 +1,1219 @@
+path,value
+root.title,Scores from cell surface expression deep mutational scan of KCNH2 in HEK293T cells
+root.methodText,The trafficking scores were computed through a sequence-based quantification system where barcode abundance in each fluorescence-sorted cell bin was used as a proxy for variant protein expression at the cell surface. Computational analysis involved normalizing the frequency distribution of variant-specific barcodes across different fluorescence intensity bins relative to wild-type barcode distribution patterns. A weighted scoring algorithm was implemented that considered the relative enrichment ...
+root.abstractText,"Background: Long QT syndrome is a lethal arrhythmia syndrome, frequently caused by rare loss-of-function variants in the potassium channel encoded by _KCNH2_. Variant classification is difficult, often because of lack of functional data. Moreover, variant-based risk stratification is also complicated by heterogenous clinical data and incomplete penetrance. Here we sought to test whether variant-specific information, primarily from high-throughput functional assays, could improve both classificat..."
+root.shortDescription,Cell surface expression deep mutational scan of KCNH2 variants in HEK293T cells
+root.recordType,ScoreSet
+root.license.longName,CC0 (Public domain)
+root.license.shortName,CC0
+root.license.active,True
+root.license.link,https://creativecommons.org/publicdomain/zero/1.0/
+root.license.version,1.0
+root.license.id,1
+root.license.recordType,ShortLicense
+root.supersededScoreSet.urn,urn:mavedb:00001231-a-1
+root.supersededScoreSet.recordType,ShorterScoreSet
+root.primaryPublicationIdentifiers[0].identifier,39315434
+root.primaryPublicationIdentifiers[0].dbName,PubMed
+root.primaryPublicationIdentifiers[0].recordType,PublicationIdentifier
+root.primaryPublicationIdentifiers[0].title,Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve 
+root.primaryPublicationIdentifiers[0].authors[0].name,O'Neill MJ
+root.primaryPublicationIdentifiers[0].authors[0].primary,True
+root.primaryPublicationIdentifiers[0].authors[1].name,Ng CA
+root.primaryPublicationIdentifiers[0].authors[1].primary,False
+root.primaryPublicationIdentifiers[0].authors[2].name,Aizawa T
+root.primaryPublicationIdentifiers[0].authors[2].primary,False
+root.primaryPublicationIdentifiers[0].authors[3].name,Sala L
+root.primaryPublicationIdentifiers[0].authors[3].primary,False
+root.primaryPublicationIdentifiers[0].authors[4].name,Bains S
+root.primaryPublicationIdentifiers[0].authors[4].primary,False
+root.primaryPublicationIdentifiers[0].authors[5].name,Winbo A
+root.primaryPublicationIdentifiers[0].authors[5].primary,False
+root.primaryPublicationIdentifiers[0].authors[6].name,Ullah R
+root.primaryPublicationIdentifiers[0].authors[6].primary,False
+root.primaryPublicationIdentifiers[0].authors[7].name,Shen Q
+root.primaryPublicationIdentifiers[0].authors[7].primary,False
+root.primaryPublicationIdentifiers[0].authors[8].name,Tan CY
+root.primaryPublicationIdentifiers[0].authors[8].primary,False
+root.primaryPublicationIdentifiers[0].authors[9].name,Kozek K
+root.primaryPublicationIdentifiers[0].authors[9].primary,False
+root.primaryPublicationIdentifiers[0].authors[10].name,Vanags LR
+root.primaryPublicationIdentifiers[0].authors[10].primary,False
+root.primaryPublicationIdentifiers[0].authors[11].name,Mitchell DW
+root.primaryPublicationIdentifiers[0].authors[11].primary,False
+root.primaryPublicationIdentifiers[0].authors[12].name,Shen A
+root.primaryPublicationIdentifiers[0].authors[12].primary,False
+root.primaryPublicationIdentifiers[0].authors[13].name,Wada Y
+root.primaryPublicationIdentifiers[0].authors[13].primary,False
+root.primaryPublicationIdentifiers[0].authors[14].name,Kashiwa A
+root.primaryPublicationIdentifiers[0].authors[14].primary,False
+root.primaryPublicationIdentifiers[0].authors[15].name,Crotti L
+root.primaryPublicationIdentifiers[0].authors[15].primary,False
+root.primaryPublicationIdentifiers[0].authors[16].name,Dagradi F
+root.primaryPublicationIdentifiers[0].authors[16].primary,False
+root.primaryPublicationIdentifiers[0].authors[17].name,Musu G
+root.primaryPublicationIdentifiers[0].authors[17].primary,False
+root.primaryPublicationIdentifiers[0].authors[18].name,Spazzolini C
+root.primaryPublicationIdentifiers[0].authors[18].primary,False
+root.primaryPublicationIdentifiers[0].authors[19].name,Neves R
+root.primaryPublicationIdentifiers[0].authors[19].primary,False
+root.primaryPublicationIdentifiers[0].authors[20].name,Bos JM
+root.primaryPublicationIdentifiers[0].authors[20].primary,False
+root.primaryPublicationIdentifiers[0].authors[21].name,Giudicessi JR
+root.primaryPublicationIdentifiers[0].authors[21].primary,False
+root.primaryPublicationIdentifiers[0].authors[22].name,Bledsoe X
+root.primaryPublicationIdentifiers[0].authors[22].primary,False
+root.primaryPublicationIdentifiers[0].authors[23].name,Gamazon ER
+root.primaryPublicationIdentifiers[0].authors[23].primary,False
+root.primaryPublicationIdentifiers[0].authors[24].name,Lancaster MC
+root.primaryPublicationIdentifiers[0].authors[24].primary,False
+root.primaryPublicationIdentifiers[0].authors[25].name,Glazer AM
+root.primaryPublicationIdentifiers[0].authors[25].primary,False
+root.primaryPublicationIdentifiers[0].authors[26].name,Knollmann BC
+root.primaryPublicationIdentifiers[0].authors[26].primary,False
+root.primaryPublicationIdentifiers[0].authors[27].name,Roden DM
+root.primaryPublicationIdentifiers[0].authors[27].primary,False
+root.primaryPublicationIdentifiers[0].authors[28].name,Weile J
+root.primaryPublicationIdentifiers[0].authors[28].primary,False
+root.primaryPublicationIdentifiers[0].authors[29].name,Roth F
+root.primaryPublicationIdentifiers[0].authors[29].primary,False
+root.primaryPublicationIdentifiers[0].authors[30].name,Salem JE
+root.primaryPublicationIdentifiers[0].authors[30].primary,False
+root.primaryPublicationIdentifiers[0].authors[31].name,Earle N
+root.primaryPublicationIdentifiers[0].authors[31].primary,False
+root.primaryPublicationIdentifiers[0].authors[32].name,Stiles R
+root.primaryPublicationIdentifiers[0].authors[32].primary,False
+root.primaryPublicationIdentifiers[0].authors[33].name,Agee T
+root.primaryPublicationIdentifiers[0].authors[33].primary,False
+root.primaryPublicationIdentifiers[0].authors[34].name,Johnson CN
+root.primaryPublicationIdentifiers[0].authors[34].primary,False
+root.primaryPublicationIdentifiers[0].authors[35].name,Horie M
+root.primaryPublicationIdentifiers[0].authors[35].primary,False
+root.primaryPublicationIdentifiers[0].authors[36].name,Skinner JR
+root.primaryPublicationIdentifiers[0].authors[36].primary,False
+root.primaryPublicationIdentifiers[0].authors[37].name,Ackerman MJ
+root.primaryPublicationIdentifiers[0].authors[37].primary,False
+root.primaryPublicationIdentifiers[0].authors[38].name,Schwartz PJ
+root.primaryPublicationIdentifiers[0].authors[38].primary,False
+root.primaryPublicationIdentifiers[0].authors[39].name,Ohno S
+root.primaryPublicationIdentifiers[0].authors[39].primary,False
+root.primaryPublicationIdentifiers[0].authors[40].name,Vandenberg JI
+root.primaryPublicationIdentifiers[0].authors[40].primary,False
+root.primaryPublicationIdentifiers[0].authors[41].name,Kroncke BM
+root.primaryPublicationIdentifiers[0].authors[41].primary,False
+root.primaryPublicationIdentifiers[0].abstract,"Long QT syndrome is a lethal arrhythmia syndrome, frequently caused by rare loss-of-function variants in the potassium channel encoded by KCNH2. Variant classification is difficult, often because of lack of functional data. Moreover, variant-based risk stratification is also complicated by heterogenous clinical data and incomplete penetrance. Here we sought to test whether variant-specific information, primarily from high-throughput functional assays, could improve both classification and cardia..."
+root.primaryPublicationIdentifiers[0].doi,10.1161/CIRCULATIONAHA.124.069828
+root.primaryPublicationIdentifiers[0].publicationYear,2024
+root.primaryPublicationIdentifiers[0].publicationJournal,Circulation
+root.primaryPublicationIdentifiers[0].url,http://www.ncbi.nlm.nih.gov/pubmed/39315434
+root.primaryPublicationIdentifiers[0].referenceHtml,"O'Neill MJ, <i>et al</i>. Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve . Circulation. 2024; 150:1869-1881. 10.1161/CIRCULATIONAHA.124.069828"
+root.primaryPublicationIdentifiers[0].id,124
+root.targetGenes[0].name,KCNH2
+root.targetGenes[0].category,protein_coding
+root.targetGenes[0].id,7805
+root.targetGenes[0].recordType,TargetGene
+root.targetGenes[0].targetSequence.sequenceType,protein
+root.targetGenes[0].targetSequence.sequence,MPVRRGHVAPQNTFLDTIIRKFEGQSRKFIIANARVENCAVIYCNDGFCELCGYSRAEVMQRPCTCDFLHGPRTQRRAAAQIAQALLGAEERKVEIAFYRKDGSCFLCLVDVVPVKNEDGAVIMFILNFEVVMEKDMVGSPAHDTNHRGPPTSWLAPGRAKTFRLKLPALLALTARESSVRSGGAGGAGAPGAVVVDVDLTPAAPSSESLALDEVTAMDNHVAGLGPAEERRALVGPGSPPRSAPGQLPSPRAHSLNPDASGSSCSLARTRSRESCASVRRASSADDIEAMRAGVLPPPPRHASTGAMHPLRSGLLNSTSDSDLVRYRTISKIPQITLNFVDLKGDPFLASPTSDREIIAPKIKERTHNVTEKVTQVLSLGADVLPEYKLQAPRIHRWTILHYSPFKAVWDWLILLLVIYTAVFTPYSAAFLLKETEEGPPATECGYACQPLAVVDLIVDIMFIVDILINFRTTYVNANEEVVSHPGRIAVHYFKGWFLI...
+root.targetGenes[0].targetSequence.label,KCNH2
+root.targetGenes[0].targetSequence.recordType,TargetSequence
+root.targetGenes[0].targetSequence.taxonomy.code,9606
+root.targetGenes[0].targetSequence.taxonomy.organismName,Homo sapiens
+root.targetGenes[0].targetSequence.taxonomy.commonName,human
+root.targetGenes[0].targetSequence.taxonomy.rank,SPECIES
+root.targetGenes[0].targetSequence.taxonomy.hasDescribedSpeciesName,True
+root.targetGenes[0].targetSequence.taxonomy.articleReference,NCBI:txid9606
+root.targetGenes[0].targetSequence.taxonomy.genomeIdentifierId,5
+root.targetGenes[0].targetSequence.taxonomy.id,15
+root.targetGenes[0].targetSequence.taxonomy.recordType,Taxonomy
+root.targetGenes[0].targetSequence.taxonomy.url,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=9606
+root.targetGenes[0].mappedHgncName,KCNH2
+root.targetGenes[0].uniprotIdFromMappedMetadata,Q12809
+root.datasetColumns.scoreColumns[0],score
+root.datasetColumns.scoreColumns[1],se
+root.datasetColumns.scoreColumns[2],LLR
+root.datasetColumns.scoreColumns[3],LLR_ci_lower
+root.datasetColumns.scoreColumns[4],LLR_ci_upper
+root.datasetColumns.scoreColumns[5],LLR_evidence_strength
+root.scoreCalibrations[0].title,IGVF Coding Variant Focus Group -- Controls: All Variants
+root.scoreCalibrations[0].researchUseOnly,False
+root.scoreCalibrations[0].baselineScore,100.0
+root.scoreCalibrations[0].baselineScoreDescription,score is percent of wild type
+root.scoreCalibrations[0].functionalClassifications[0].label,Normal
+root.scoreCalibrations[0].functionalClassifications[0].functionalClassification,normal
+root.scoreCalibrations[0].functionalClassifications[0].range[0],58.0
+root.scoreCalibrations[0].functionalClassifications[0].range[1],153.0
+root.scoreCalibrations[0].functionalClassifications[0].inclusiveLowerBound,False
+root.scoreCalibrations[0].functionalClassifications[0].inclusiveUpperBound,False
+root.scoreCalibrations[0].functionalClassifications[0].acmgClassification.criterion,BS3
+root.scoreCalibrations[0].functionalClassifications[0].acmgClassification.evidenceStrength,MODERATE
+root.scoreCalibrations[0].functionalClassifications[0].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[0].functionalClassifications[0].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[0].functionalClassifications[0].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[0].functionalClassifications[0].oddspathsRatio,0.0978
+root.scoreCalibrations[0].functionalClassifications[0].id,474
+root.scoreCalibrations[0].functionalClassifications[0].recordType,FunctionalClassification
+root.scoreCalibrations[0].functionalClassifications[0].variantCount,15240
+root.scoreCalibrations[0].functionalClassifications[1].label,Loss of function
+root.scoreCalibrations[0].functionalClassifications[1].functionalClassification,abnormal
+root.scoreCalibrations[0].functionalClassifications[1].range[0],None
+root.scoreCalibrations[0].functionalClassifications[1].range[1],58.0
+root.scoreCalibrations[0].functionalClassifications[1].inclusiveLowerBound,False
+root.scoreCalibrations[0].functionalClassifications[1].inclusiveUpperBound,False
+root.scoreCalibrations[0].functionalClassifications[1].acmgClassification.criterion,PS3
+root.scoreCalibrations[0].functionalClassifications[1].acmgClassification.evidenceStrength,MODERATE
+root.scoreCalibrations[0].functionalClassifications[1].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[0].functionalClassifications[1].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[0].functionalClassifications[1].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[0].functionalClassifications[1].oddspathsRatio,11.3645
+root.scoreCalibrations[0].functionalClassifications[1].id,475
+root.scoreCalibrations[0].functionalClassifications[1].recordType,FunctionalClassification
+root.scoreCalibrations[0].functionalClassifications[1].variantCount,7158
+root.scoreCalibrations[0].thresholdSources[0].identifier,39315434
+root.scoreCalibrations[0].thresholdSources[0].dbName,PubMed
+root.scoreCalibrations[0].thresholdSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[0].thresholdSources[0].title,Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve 
+root.scoreCalibrations[0].thresholdSources[0].authors[0].name,O'Neill MJ
+root.scoreCalibrations[0].thresholdSources[0].authors[0].primary,True
+root.scoreCalibrations[0].thresholdSources[0].authors[1].name,Ng CA
+root.scoreCalibrations[0].thresholdSources[0].authors[1].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[2].name,Aizawa T
+root.scoreCalibrations[0].thresholdSources[0].authors[2].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[3].name,Sala L
+root.scoreCalibrations[0].thresholdSources[0].authors[3].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[4].name,Bains S
+root.scoreCalibrations[0].thresholdSources[0].authors[4].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[5].name,Winbo A
+root.scoreCalibrations[0].thresholdSources[0].authors[5].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[6].name,Ullah R
+root.scoreCalibrations[0].thresholdSources[0].authors[6].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[7].name,Shen Q
+root.scoreCalibrations[0].thresholdSources[0].authors[7].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[8].name,Tan CY
+root.scoreCalibrations[0].thresholdSources[0].authors[8].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[9].name,Kozek K
+root.scoreCalibrations[0].thresholdSources[0].authors[9].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[10].name,Vanags LR
+root.scoreCalibrations[0].thresholdSources[0].authors[10].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[11].name,Mitchell DW
+root.scoreCalibrations[0].thresholdSources[0].authors[11].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[12].name,Shen A
+root.scoreCalibrations[0].thresholdSources[0].authors[12].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[13].name,Wada Y
+root.scoreCalibrations[0].thresholdSources[0].authors[13].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[14].name,Kashiwa A
+root.scoreCalibrations[0].thresholdSources[0].authors[14].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[15].name,Crotti L
+root.scoreCalibrations[0].thresholdSources[0].authors[15].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[16].name,Dagradi F
+root.scoreCalibrations[0].thresholdSources[0].authors[16].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[17].name,Musu G
+root.scoreCalibrations[0].thresholdSources[0].authors[17].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[18].name,Spazzolini C
+root.scoreCalibrations[0].thresholdSources[0].authors[18].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[19].name,Neves R
+root.scoreCalibrations[0].thresholdSources[0].authors[19].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[20].name,Bos JM
+root.scoreCalibrations[0].thresholdSources[0].authors[20].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[21].name,Giudicessi JR
+root.scoreCalibrations[0].thresholdSources[0].authors[21].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[22].name,Bledsoe X
+root.scoreCalibrations[0].thresholdSources[0].authors[22].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[23].name,Gamazon ER
+root.scoreCalibrations[0].thresholdSources[0].authors[23].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[24].name,Lancaster MC
+root.scoreCalibrations[0].thresholdSources[0].authors[24].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[25].name,Glazer AM
+root.scoreCalibrations[0].thresholdSources[0].authors[25].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[26].name,Knollmann BC
+root.scoreCalibrations[0].thresholdSources[0].authors[26].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[27].name,Roden DM
+root.scoreCalibrations[0].thresholdSources[0].authors[27].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[28].name,Weile J
+root.scoreCalibrations[0].thresholdSources[0].authors[28].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[29].name,Roth F
+root.scoreCalibrations[0].thresholdSources[0].authors[29].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[30].name,Salem JE
+root.scoreCalibrations[0].thresholdSources[0].authors[30].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[31].name,Earle N
+root.scoreCalibrations[0].thresholdSources[0].authors[31].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[32].name,Stiles R
+root.scoreCalibrations[0].thresholdSources[0].authors[32].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[33].name,Agee T
+root.scoreCalibrations[0].thresholdSources[0].authors[33].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[34].name,Johnson CN
+root.scoreCalibrations[0].thresholdSources[0].authors[34].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[35].name,Horie M
+root.scoreCalibrations[0].thresholdSources[0].authors[35].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[36].name,Skinner JR
+root.scoreCalibrations[0].thresholdSources[0].authors[36].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[37].name,Ackerman MJ
+root.scoreCalibrations[0].thresholdSources[0].authors[37].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[38].name,Schwartz PJ
+root.scoreCalibrations[0].thresholdSources[0].authors[38].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[39].name,Ohno S
+root.scoreCalibrations[0].thresholdSources[0].authors[39].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[40].name,Vandenberg JI
+root.scoreCalibrations[0].thresholdSources[0].authors[40].primary,False
+root.scoreCalibrations[0].thresholdSources[0].authors[41].name,Kroncke BM
+root.scoreCalibrations[0].thresholdSources[0].authors[41].primary,False
+root.scoreCalibrations[0].thresholdSources[0].abstract,"Long QT syndrome is a lethal arrhythmia syndrome, frequently caused by rare loss-of-function variants in the potassium channel encoded by KCNH2. Variant classification is difficult, often because of lack of functional data. Moreover, variant-based risk stratification is also complicated by heterogenous clinical data and incomplete penetrance. Here we sought to test whether variant-specific information, primarily from high-throughput functional assays, could improve both classification and cardia..."
+root.scoreCalibrations[0].thresholdSources[0].doi,10.1161/CIRCULATIONAHA.124.069828
+root.scoreCalibrations[0].thresholdSources[0].publicationYear,2024
+root.scoreCalibrations[0].thresholdSources[0].publicationJournal,Circulation
+root.scoreCalibrations[0].thresholdSources[0].url,http://www.ncbi.nlm.nih.gov/pubmed/39315434
+root.scoreCalibrations[0].thresholdSources[0].referenceHtml,"O'Neill MJ, <i>et al</i>. Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve . Circulation. 2024; 150:1869-1881. 10.1161/CIRCULATIONAHA.124.069828"
+root.scoreCalibrations[0].thresholdSources[0].id,124
+root.scoreCalibrations[0].methodSources[0].identifier,31892348
+root.scoreCalibrations[0].methodSources[0].dbName,PubMed
+root.scoreCalibrations[0].methodSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[0].methodSources[0].title,Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework.
+root.scoreCalibrations[0].methodSources[0].authors[0].name,Brnich SE
+root.scoreCalibrations[0].methodSources[0].authors[0].primary,True
+root.scoreCalibrations[0].methodSources[0].authors[1].name,Abou Tayoun AN
+root.scoreCalibrations[0].methodSources[0].authors[1].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[2].name,Couch FJ
+root.scoreCalibrations[0].methodSources[0].authors[2].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[3].name,Cutting GR
+root.scoreCalibrations[0].methodSources[0].authors[3].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[4].name,Greenblatt MS
+root.scoreCalibrations[0].methodSources[0].authors[4].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[5].name,Heinen CD
+root.scoreCalibrations[0].methodSources[0].authors[5].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[6].name,Kanavy DM
+root.scoreCalibrations[0].methodSources[0].authors[6].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[7].name,Luo X
+root.scoreCalibrations[0].methodSources[0].authors[7].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[8].name,McNulty SM
+root.scoreCalibrations[0].methodSources[0].authors[8].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[9].name,Starita LM
+root.scoreCalibrations[0].methodSources[0].authors[9].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[10].name,Tavtigian SV
+root.scoreCalibrations[0].methodSources[0].authors[10].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[11].name,Wright MW
+root.scoreCalibrations[0].methodSources[0].authors[11].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[12].name,Harrison SM
+root.scoreCalibrations[0].methodSources[0].authors[12].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[13].name,Biesecker LG
+root.scoreCalibrations[0].methodSources[0].authors[13].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[14].name,Berg JS
+root.scoreCalibrations[0].methodSources[0].authors[14].primary,False
+root.scoreCalibrations[0].methodSources[0].authors[15].name,Clinical Genome Resource Sequence Variant Interpretation Working Group
+root.scoreCalibrations[0].methodSources[0].authors[15].primary,False
+root.scoreCalibrations[0].methodSources[0].abstract,"The American College of Medical Genetics and Genomics (ACMG)/Association for Molecular Pathology (AMP) clinical variant interpretation guidelines established criteria for different types of evidence. This includes the strong evidence codes PS3 and BS3 for ""well-established"" functional assays demonstrating a variant has abnormal or normal gene/protein function, respectively. However, they did not provide detailed guidance on how functional evidence should be evaluated, and differences in the appl..."
+root.scoreCalibrations[0].methodSources[0].doi,10.1186/s13073-019-0690-2
+root.scoreCalibrations[0].methodSources[0].publicationYear,2019
+root.scoreCalibrations[0].methodSources[0].publicationJournal,Genome Med
+root.scoreCalibrations[0].methodSources[0].url,http://www.ncbi.nlm.nih.gov/pubmed/31892348
+root.scoreCalibrations[0].methodSources[0].referenceHtml,"Brnich SE, <i>et al</i>. Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework. Genome Med. 2019; 12:3. 10.1186/s13073-019-0690-2"
+root.scoreCalibrations[0].methodSources[0].id,150
+root.scoreCalibrations[0].recordType,ScoreCalibration
+root.scoreCalibrations[0].id,766
+root.scoreCalibrations[0].urn,urn:mavedb:calibration-ff02d028-b43e-4603-b630-312135062ba3
+root.scoreCalibrations[0].scoreSetId,4367
+root.scoreCalibrations[0].investigatorProvided,False
+root.scoreCalibrations[0].primary,True
+root.scoreCalibrations[0].private,False
+root.scoreCalibrations[0].createdBy.orcidId,AnonymousUser
+root.scoreCalibrations[0].createdBy.recordType,User
+root.scoreCalibrations[0].modifiedBy.orcidId,AnonymousUser
+root.scoreCalibrations[0].modifiedBy.recordType,User
+root.scoreCalibrations[0].creationDate,2025-11-14
+root.scoreCalibrations[0].modificationDate,2025-11-14
+root.scoreCalibrations[1].title,Investigator-provided functional classes
+root.scoreCalibrations[1].researchUseOnly,False
+root.scoreCalibrations[1].baselineScore,100.0
+root.scoreCalibrations[1].baselineScoreDescription,score is percent of wild type
+root.scoreCalibrations[1].functionalClassifications[0].label,Normal
+root.scoreCalibrations[1].functionalClassifications[0].functionalClassification,normal
+root.scoreCalibrations[1].functionalClassifications[0].range[0],58.0
+root.scoreCalibrations[1].functionalClassifications[0].range[1],153.0
+root.scoreCalibrations[1].functionalClassifications[0].inclusiveLowerBound,False
+root.scoreCalibrations[1].functionalClassifications[0].inclusiveUpperBound,False
+root.scoreCalibrations[1].functionalClassifications[0].acmgClassification.criterion,BS3
+root.scoreCalibrations[1].functionalClassifications[0].acmgClassification.evidenceStrength,MODERATE
+root.scoreCalibrations[1].functionalClassifications[0].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[1].functionalClassifications[0].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[1].functionalClassifications[0].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[1].functionalClassifications[0].oddspathsRatio,0.122
+root.scoreCalibrations[1].functionalClassifications[0].id,466
+root.scoreCalibrations[1].functionalClassifications[0].recordType,FunctionalClassification
+root.scoreCalibrations[1].functionalClassifications[0].variantCount,15240
+root.scoreCalibrations[1].functionalClassifications[1].label,Loss of function
+root.scoreCalibrations[1].functionalClassifications[1].functionalClassification,abnormal
+root.scoreCalibrations[1].functionalClassifications[1].range[0],None
+root.scoreCalibrations[1].functionalClassifications[1].range[1],58.0
+root.scoreCalibrations[1].functionalClassifications[1].inclusiveLowerBound,False
+root.scoreCalibrations[1].functionalClassifications[1].inclusiveUpperBound,False
+root.scoreCalibrations[1].functionalClassifications[1].acmgClassification.criterion,PS3
+root.scoreCalibrations[1].functionalClassifications[1].acmgClassification.evidenceStrength,STRONG
+root.scoreCalibrations[1].functionalClassifications[1].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[1].functionalClassifications[1].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[1].functionalClassifications[1].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[1].functionalClassifications[1].oddspathsRatio,21.3
+root.scoreCalibrations[1].functionalClassifications[1].id,467
+root.scoreCalibrations[1].functionalClassifications[1].recordType,FunctionalClassification
+root.scoreCalibrations[1].functionalClassifications[1].variantCount,7158
+root.scoreCalibrations[1].thresholdSources[0].identifier,39315434
+root.scoreCalibrations[1].thresholdSources[0].dbName,PubMed
+root.scoreCalibrations[1].thresholdSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[1].thresholdSources[0].title,Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve 
+root.scoreCalibrations[1].thresholdSources[0].authors[0].name,O'Neill MJ
+root.scoreCalibrations[1].thresholdSources[0].authors[0].primary,True
+root.scoreCalibrations[1].thresholdSources[0].authors[1].name,Ng CA
+root.scoreCalibrations[1].thresholdSources[0].authors[1].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[2].name,Aizawa T
+root.scoreCalibrations[1].thresholdSources[0].authors[2].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[3].name,Sala L
+root.scoreCalibrations[1].thresholdSources[0].authors[3].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[4].name,Bains S
+root.scoreCalibrations[1].thresholdSources[0].authors[4].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[5].name,Winbo A
+root.scoreCalibrations[1].thresholdSources[0].authors[5].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[6].name,Ullah R
+root.scoreCalibrations[1].thresholdSources[0].authors[6].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[7].name,Shen Q
+root.scoreCalibrations[1].thresholdSources[0].authors[7].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[8].name,Tan CY
+root.scoreCalibrations[1].thresholdSources[0].authors[8].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[9].name,Kozek K
+root.scoreCalibrations[1].thresholdSources[0].authors[9].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[10].name,Vanags LR
+root.scoreCalibrations[1].thresholdSources[0].authors[10].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[11].name,Mitchell DW
+root.scoreCalibrations[1].thresholdSources[0].authors[11].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[12].name,Shen A
+root.scoreCalibrations[1].thresholdSources[0].authors[12].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[13].name,Wada Y
+root.scoreCalibrations[1].thresholdSources[0].authors[13].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[14].name,Kashiwa A
+root.scoreCalibrations[1].thresholdSources[0].authors[14].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[15].name,Crotti L
+root.scoreCalibrations[1].thresholdSources[0].authors[15].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[16].name,Dagradi F
+root.scoreCalibrations[1].thresholdSources[0].authors[16].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[17].name,Musu G
+root.scoreCalibrations[1].thresholdSources[0].authors[17].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[18].name,Spazzolini C
+root.scoreCalibrations[1].thresholdSources[0].authors[18].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[19].name,Neves R
+root.scoreCalibrations[1].thresholdSources[0].authors[19].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[20].name,Bos JM
+root.scoreCalibrations[1].thresholdSources[0].authors[20].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[21].name,Giudicessi JR
+root.scoreCalibrations[1].thresholdSources[0].authors[21].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[22].name,Bledsoe X
+root.scoreCalibrations[1].thresholdSources[0].authors[22].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[23].name,Gamazon ER
+root.scoreCalibrations[1].thresholdSources[0].authors[23].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[24].name,Lancaster MC
+root.scoreCalibrations[1].thresholdSources[0].authors[24].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[25].name,Glazer AM
+root.scoreCalibrations[1].thresholdSources[0].authors[25].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[26].name,Knollmann BC
+root.scoreCalibrations[1].thresholdSources[0].authors[26].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[27].name,Roden DM
+root.scoreCalibrations[1].thresholdSources[0].authors[27].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[28].name,Weile J
+root.scoreCalibrations[1].thresholdSources[0].authors[28].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[29].name,Roth F
+root.scoreCalibrations[1].thresholdSources[0].authors[29].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[30].name,Salem JE
+root.scoreCalibrations[1].thresholdSources[0].authors[30].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[31].name,Earle N
+root.scoreCalibrations[1].thresholdSources[0].authors[31].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[32].name,Stiles R
+root.scoreCalibrations[1].thresholdSources[0].authors[32].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[33].name,Agee T
+root.scoreCalibrations[1].thresholdSources[0].authors[33].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[34].name,Johnson CN
+root.scoreCalibrations[1].thresholdSources[0].authors[34].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[35].name,Horie M
+root.scoreCalibrations[1].thresholdSources[0].authors[35].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[36].name,Skinner JR
+root.scoreCalibrations[1].thresholdSources[0].authors[36].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[37].name,Ackerman MJ
+root.scoreCalibrations[1].thresholdSources[0].authors[37].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[38].name,Schwartz PJ
+root.scoreCalibrations[1].thresholdSources[0].authors[38].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[39].name,Ohno S
+root.scoreCalibrations[1].thresholdSources[0].authors[39].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[40].name,Vandenberg JI
+root.scoreCalibrations[1].thresholdSources[0].authors[40].primary,False
+root.scoreCalibrations[1].thresholdSources[0].authors[41].name,Kroncke BM
+root.scoreCalibrations[1].thresholdSources[0].authors[41].primary,False
+root.scoreCalibrations[1].thresholdSources[0].abstract,"Long QT syndrome is a lethal arrhythmia syndrome, frequently caused by rare loss-of-function variants in the potassium channel encoded by KCNH2. Variant classification is difficult, often because of lack of functional data. Moreover, variant-based risk stratification is also complicated by heterogenous clinical data and incomplete penetrance. Here we sought to test whether variant-specific information, primarily from high-throughput functional assays, could improve both classification and cardia..."
+root.scoreCalibrations[1].thresholdSources[0].doi,10.1161/CIRCULATIONAHA.124.069828
+root.scoreCalibrations[1].thresholdSources[0].publicationYear,2024
+root.scoreCalibrations[1].thresholdSources[0].publicationJournal,Circulation
+root.scoreCalibrations[1].thresholdSources[0].url,http://www.ncbi.nlm.nih.gov/pubmed/39315434
+root.scoreCalibrations[1].thresholdSources[0].referenceHtml,"O'Neill MJ, <i>et al</i>. Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve . Circulation. 2024; 150:1869-1881. 10.1161/CIRCULATIONAHA.124.069828"
+root.scoreCalibrations[1].thresholdSources[0].id,124
+root.scoreCalibrations[1].evidenceSources[0].identifier,39315434
+root.scoreCalibrations[1].evidenceSources[0].dbName,PubMed
+root.scoreCalibrations[1].evidenceSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[1].evidenceSources[0].title,Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve 
+root.scoreCalibrations[1].evidenceSources[0].authors[0].name,O'Neill MJ
+root.scoreCalibrations[1].evidenceSources[0].authors[0].primary,True
+root.scoreCalibrations[1].evidenceSources[0].authors[1].name,Ng CA
+root.scoreCalibrations[1].evidenceSources[0].authors[1].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[2].name,Aizawa T
+root.scoreCalibrations[1].evidenceSources[0].authors[2].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[3].name,Sala L
+root.scoreCalibrations[1].evidenceSources[0].authors[3].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[4].name,Bains S
+root.scoreCalibrations[1].evidenceSources[0].authors[4].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[5].name,Winbo A
+root.scoreCalibrations[1].evidenceSources[0].authors[5].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[6].name,Ullah R
+root.scoreCalibrations[1].evidenceSources[0].authors[6].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[7].name,Shen Q
+root.scoreCalibrations[1].evidenceSources[0].authors[7].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[8].name,Tan CY
+root.scoreCalibrations[1].evidenceSources[0].authors[8].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[9].name,Kozek K
+root.scoreCalibrations[1].evidenceSources[0].authors[9].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[10].name,Vanags LR
+root.scoreCalibrations[1].evidenceSources[0].authors[10].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[11].name,Mitchell DW
+root.scoreCalibrations[1].evidenceSources[0].authors[11].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[12].name,Shen A
+root.scoreCalibrations[1].evidenceSources[0].authors[12].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[13].name,Wada Y
+root.scoreCalibrations[1].evidenceSources[0].authors[13].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[14].name,Kashiwa A
+root.scoreCalibrations[1].evidenceSources[0].authors[14].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[15].name,Crotti L
+root.scoreCalibrations[1].evidenceSources[0].authors[15].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[16].name,Dagradi F
+root.scoreCalibrations[1].evidenceSources[0].authors[16].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[17].name,Musu G
+root.scoreCalibrations[1].evidenceSources[0].authors[17].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[18].name,Spazzolini C
+root.scoreCalibrations[1].evidenceSources[0].authors[18].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[19].name,Neves R
+root.scoreCalibrations[1].evidenceSources[0].authors[19].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[20].name,Bos JM
+root.scoreCalibrations[1].evidenceSources[0].authors[20].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[21].name,Giudicessi JR
+root.scoreCalibrations[1].evidenceSources[0].authors[21].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[22].name,Bledsoe X
+root.scoreCalibrations[1].evidenceSources[0].authors[22].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[23].name,Gamazon ER
+root.scoreCalibrations[1].evidenceSources[0].authors[23].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[24].name,Lancaster MC
+root.scoreCalibrations[1].evidenceSources[0].authors[24].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[25].name,Glazer AM
+root.scoreCalibrations[1].evidenceSources[0].authors[25].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[26].name,Knollmann BC
+root.scoreCalibrations[1].evidenceSources[0].authors[26].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[27].name,Roden DM
+root.scoreCalibrations[1].evidenceSources[0].authors[27].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[28].name,Weile J
+root.scoreCalibrations[1].evidenceSources[0].authors[28].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[29].name,Roth F
+root.scoreCalibrations[1].evidenceSources[0].authors[29].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[30].name,Salem JE
+root.scoreCalibrations[1].evidenceSources[0].authors[30].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[31].name,Earle N
+root.scoreCalibrations[1].evidenceSources[0].authors[31].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[32].name,Stiles R
+root.scoreCalibrations[1].evidenceSources[0].authors[32].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[33].name,Agee T
+root.scoreCalibrations[1].evidenceSources[0].authors[33].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[34].name,Johnson CN
+root.scoreCalibrations[1].evidenceSources[0].authors[34].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[35].name,Horie M
+root.scoreCalibrations[1].evidenceSources[0].authors[35].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[36].name,Skinner JR
+root.scoreCalibrations[1].evidenceSources[0].authors[36].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[37].name,Ackerman MJ
+root.scoreCalibrations[1].evidenceSources[0].authors[37].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[38].name,Schwartz PJ
+root.scoreCalibrations[1].evidenceSources[0].authors[38].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[39].name,Ohno S
+root.scoreCalibrations[1].evidenceSources[0].authors[39].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[40].name,Vandenberg JI
+root.scoreCalibrations[1].evidenceSources[0].authors[40].primary,False
+root.scoreCalibrations[1].evidenceSources[0].authors[41].name,Kroncke BM
+root.scoreCalibrations[1].evidenceSources[0].authors[41].primary,False
+root.scoreCalibrations[1].evidenceSources[0].abstract,"Long QT syndrome is a lethal arrhythmia syndrome, frequently caused by rare loss-of-function variants in the potassium channel encoded by KCNH2. Variant classification is difficult, often because of lack of functional data. Moreover, variant-based risk stratification is also complicated by heterogenous clinical data and incomplete penetrance. Here we sought to test whether variant-specific information, primarily from high-throughput functional assays, could improve both classification and cardia..."
+root.scoreCalibrations[1].evidenceSources[0].doi,10.1161/CIRCULATIONAHA.124.069828
+root.scoreCalibrations[1].evidenceSources[0].publicationYear,2024
+root.scoreCalibrations[1].evidenceSources[0].publicationJournal,Circulation
+root.scoreCalibrations[1].evidenceSources[0].url,http://www.ncbi.nlm.nih.gov/pubmed/39315434
+root.scoreCalibrations[1].evidenceSources[0].referenceHtml,"O'Neill MJ, <i>et al</i>. Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve . Circulation. 2024; 150:1869-1881. 10.1161/CIRCULATIONAHA.124.069828"
+root.scoreCalibrations[1].evidenceSources[0].id,124
+root.scoreCalibrations[1].methodSources[0].identifier,31892348
+root.scoreCalibrations[1].methodSources[0].dbName,PubMed
+root.scoreCalibrations[1].methodSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[1].methodSources[0].title,Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework.
+root.scoreCalibrations[1].methodSources[0].authors[0].name,Brnich SE
+root.scoreCalibrations[1].methodSources[0].authors[0].primary,True
+root.scoreCalibrations[1].methodSources[0].authors[1].name,Abou Tayoun AN
+root.scoreCalibrations[1].methodSources[0].authors[1].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[2].name,Couch FJ
+root.scoreCalibrations[1].methodSources[0].authors[2].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[3].name,Cutting GR
+root.scoreCalibrations[1].methodSources[0].authors[3].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[4].name,Greenblatt MS
+root.scoreCalibrations[1].methodSources[0].authors[4].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[5].name,Heinen CD
+root.scoreCalibrations[1].methodSources[0].authors[5].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[6].name,Kanavy DM
+root.scoreCalibrations[1].methodSources[0].authors[6].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[7].name,Luo X
+root.scoreCalibrations[1].methodSources[0].authors[7].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[8].name,McNulty SM
+root.scoreCalibrations[1].methodSources[0].authors[8].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[9].name,Starita LM
+root.scoreCalibrations[1].methodSources[0].authors[9].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[10].name,Tavtigian SV
+root.scoreCalibrations[1].methodSources[0].authors[10].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[11].name,Wright MW
+root.scoreCalibrations[1].methodSources[0].authors[11].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[12].name,Harrison SM
+root.scoreCalibrations[1].methodSources[0].authors[12].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[13].name,Biesecker LG
+root.scoreCalibrations[1].methodSources[0].authors[13].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[14].name,Berg JS
+root.scoreCalibrations[1].methodSources[0].authors[14].primary,False
+root.scoreCalibrations[1].methodSources[0].authors[15].name,Clinical Genome Resource Sequence Variant Interpretation Working Group
+root.scoreCalibrations[1].methodSources[0].authors[15].primary,False
+root.scoreCalibrations[1].methodSources[0].abstract,"The American College of Medical Genetics and Genomics (ACMG)/Association for Molecular Pathology (AMP) clinical variant interpretation guidelines established criteria for different types of evidence. This includes the strong evidence codes PS3 and BS3 for ""well-established"" functional assays demonstrating a variant has abnormal or normal gene/protein function, respectively. However, they did not provide detailed guidance on how functional evidence should be evaluated, and differences in the appl..."
+root.scoreCalibrations[1].methodSources[0].doi,10.1186/s13073-019-0690-2
+root.scoreCalibrations[1].methodSources[0].publicationYear,2019
+root.scoreCalibrations[1].methodSources[0].publicationJournal,Genome Med
+root.scoreCalibrations[1].methodSources[0].url,http://www.ncbi.nlm.nih.gov/pubmed/31892348
+root.scoreCalibrations[1].methodSources[0].referenceHtml,"Brnich SE, <i>et al</i>. Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework. Genome Med. 2019; 12:3. 10.1186/s13073-019-0690-2"
+root.scoreCalibrations[1].methodSources[0].id,150
+root.scoreCalibrations[1].recordType,ScoreCalibration
+root.scoreCalibrations[1].id,762
+root.scoreCalibrations[1].urn,urn:mavedb:calibration-9dd35491-9e5e-4fe0-ae5c-0b62a8161d8d
+root.scoreCalibrations[1].scoreSetId,4367
+root.scoreCalibrations[1].investigatorProvided,True
+root.scoreCalibrations[1].primary,False
+root.scoreCalibrations[1].private,False
+root.scoreCalibrations[1].createdBy.orcidId,0000-0002-7565-2463
+root.scoreCalibrations[1].createdBy.firstName,Jeremy
+root.scoreCalibrations[1].createdBy.lastName,Stone
+root.scoreCalibrations[1].createdBy.recordType,User
+root.scoreCalibrations[1].modifiedBy.orcidId,0000-0002-7565-2463
+root.scoreCalibrations[1].modifiedBy.firstName,Jeremy
+root.scoreCalibrations[1].modifiedBy.lastName,Stone
+root.scoreCalibrations[1].modifiedBy.recordType,User
+root.scoreCalibrations[1].creationDate,2025-11-14
+root.scoreCalibrations[1].modificationDate,2025-11-14
+root.scoreCalibrations[2].title,IGVF Coding Variant Focus Group -- Controls: Missense Variants Only
+root.scoreCalibrations[2].researchUseOnly,False
+root.scoreCalibrations[2].baselineScore,100.0
+root.scoreCalibrations[2].baselineScoreDescription,score is percent of wild type
+root.scoreCalibrations[2].functionalClassifications[0].label,Normal
+root.scoreCalibrations[2].functionalClassifications[0].functionalClassification,normal
+root.scoreCalibrations[2].functionalClassifications[0].range[0],58.0
+root.scoreCalibrations[2].functionalClassifications[0].range[1],153.0
+root.scoreCalibrations[2].functionalClassifications[0].inclusiveLowerBound,False
+root.scoreCalibrations[2].functionalClassifications[0].inclusiveUpperBound,False
+root.scoreCalibrations[2].functionalClassifications[0].acmgClassification.criterion,BS3
+root.scoreCalibrations[2].functionalClassifications[0].acmgClassification.evidenceStrength,MODERATE
+root.scoreCalibrations[2].functionalClassifications[0].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[2].functionalClassifications[0].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[2].functionalClassifications[0].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[2].functionalClassifications[0].oddspathsRatio,0.1058201058
+root.scoreCalibrations[2].functionalClassifications[0].id,470
+root.scoreCalibrations[2].functionalClassifications[0].recordType,FunctionalClassification
+root.scoreCalibrations[2].functionalClassifications[0].variantCount,15240
+root.scoreCalibrations[2].functionalClassifications[1].label,Loss of function
+root.scoreCalibrations[2].functionalClassifications[1].functionalClassification,abnormal
+root.scoreCalibrations[2].functionalClassifications[1].range[0],None
+root.scoreCalibrations[2].functionalClassifications[1].range[1],58.0
+root.scoreCalibrations[2].functionalClassifications[1].inclusiveLowerBound,False
+root.scoreCalibrations[2].functionalClassifications[1].inclusiveUpperBound,False
+root.scoreCalibrations[2].functionalClassifications[1].acmgClassification.criterion,PS3
+root.scoreCalibrations[2].functionalClassifications[1].acmgClassification.evidenceStrength,MODERATE
+root.scoreCalibrations[2].functionalClassifications[1].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[2].functionalClassifications[1].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[2].functionalClassifications[1].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[2].functionalClassifications[1].oddspathsRatio,9.047619048
+root.scoreCalibrations[2].functionalClassifications[1].id,471
+root.scoreCalibrations[2].functionalClassifications[1].recordType,FunctionalClassification
+root.scoreCalibrations[2].functionalClassifications[1].variantCount,7158
+root.scoreCalibrations[2].thresholdSources[0].identifier,39315434
+root.scoreCalibrations[2].thresholdSources[0].dbName,PubMed
+root.scoreCalibrations[2].thresholdSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[2].thresholdSources[0].title,Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve 
+root.scoreCalibrations[2].thresholdSources[0].authors[0].name,O'Neill MJ
+root.scoreCalibrations[2].thresholdSources[0].authors[0].primary,True
+root.scoreCalibrations[2].thresholdSources[0].authors[1].name,Ng CA
+root.scoreCalibrations[2].thresholdSources[0].authors[1].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[2].name,Aizawa T
+root.scoreCalibrations[2].thresholdSources[0].authors[2].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[3].name,Sala L
+root.scoreCalibrations[2].thresholdSources[0].authors[3].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[4].name,Bains S
+root.scoreCalibrations[2].thresholdSources[0].authors[4].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[5].name,Winbo A
+root.scoreCalibrations[2].thresholdSources[0].authors[5].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[6].name,Ullah R
+root.scoreCalibrations[2].thresholdSources[0].authors[6].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[7].name,Shen Q
+root.scoreCalibrations[2].thresholdSources[0].authors[7].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[8].name,Tan CY
+root.scoreCalibrations[2].thresholdSources[0].authors[8].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[9].name,Kozek K
+root.scoreCalibrations[2].thresholdSources[0].authors[9].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[10].name,Vanags LR
+root.scoreCalibrations[2].thresholdSources[0].authors[10].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[11].name,Mitchell DW
+root.scoreCalibrations[2].thresholdSources[0].authors[11].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[12].name,Shen A
+root.scoreCalibrations[2].thresholdSources[0].authors[12].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[13].name,Wada Y
+root.scoreCalibrations[2].thresholdSources[0].authors[13].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[14].name,Kashiwa A
+root.scoreCalibrations[2].thresholdSources[0].authors[14].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[15].name,Crotti L
+root.scoreCalibrations[2].thresholdSources[0].authors[15].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[16].name,Dagradi F
+root.scoreCalibrations[2].thresholdSources[0].authors[16].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[17].name,Musu G
+root.scoreCalibrations[2].thresholdSources[0].authors[17].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[18].name,Spazzolini C
+root.scoreCalibrations[2].thresholdSources[0].authors[18].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[19].name,Neves R
+root.scoreCalibrations[2].thresholdSources[0].authors[19].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[20].name,Bos JM
+root.scoreCalibrations[2].thresholdSources[0].authors[20].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[21].name,Giudicessi JR
+root.scoreCalibrations[2].thresholdSources[0].authors[21].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[22].name,Bledsoe X
+root.scoreCalibrations[2].thresholdSources[0].authors[22].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[23].name,Gamazon ER
+root.scoreCalibrations[2].thresholdSources[0].authors[23].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[24].name,Lancaster MC
+root.scoreCalibrations[2].thresholdSources[0].authors[24].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[25].name,Glazer AM
+root.scoreCalibrations[2].thresholdSources[0].authors[25].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[26].name,Knollmann BC
+root.scoreCalibrations[2].thresholdSources[0].authors[26].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[27].name,Roden DM
+root.scoreCalibrations[2].thresholdSources[0].authors[27].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[28].name,Weile J
+root.scoreCalibrations[2].thresholdSources[0].authors[28].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[29].name,Roth F
+root.scoreCalibrations[2].thresholdSources[0].authors[29].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[30].name,Salem JE
+root.scoreCalibrations[2].thresholdSources[0].authors[30].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[31].name,Earle N
+root.scoreCalibrations[2].thresholdSources[0].authors[31].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[32].name,Stiles R
+root.scoreCalibrations[2].thresholdSources[0].authors[32].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[33].name,Agee T
+root.scoreCalibrations[2].thresholdSources[0].authors[33].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[34].name,Johnson CN
+root.scoreCalibrations[2].thresholdSources[0].authors[34].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[35].name,Horie M
+root.scoreCalibrations[2].thresholdSources[0].authors[35].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[36].name,Skinner JR
+root.scoreCalibrations[2].thresholdSources[0].authors[36].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[37].name,Ackerman MJ
+root.scoreCalibrations[2].thresholdSources[0].authors[37].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[38].name,Schwartz PJ
+root.scoreCalibrations[2].thresholdSources[0].authors[38].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[39].name,Ohno S
+root.scoreCalibrations[2].thresholdSources[0].authors[39].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[40].name,Vandenberg JI
+root.scoreCalibrations[2].thresholdSources[0].authors[40].primary,False
+root.scoreCalibrations[2].thresholdSources[0].authors[41].name,Kroncke BM
+root.scoreCalibrations[2].thresholdSources[0].authors[41].primary,False
+root.scoreCalibrations[2].thresholdSources[0].abstract,"Long QT syndrome is a lethal arrhythmia syndrome, frequently caused by rare loss-of-function variants in the potassium channel encoded by KCNH2. Variant classification is difficult, often because of lack of functional data. Moreover, variant-based risk stratification is also complicated by heterogenous clinical data and incomplete penetrance. Here we sought to test whether variant-specific information, primarily from high-throughput functional assays, could improve both classification and cardia..."
+root.scoreCalibrations[2].thresholdSources[0].doi,10.1161/CIRCULATIONAHA.124.069828
+root.scoreCalibrations[2].thresholdSources[0].publicationYear,2024
+root.scoreCalibrations[2].thresholdSources[0].publicationJournal,Circulation
+root.scoreCalibrations[2].thresholdSources[0].url,http://www.ncbi.nlm.nih.gov/pubmed/39315434
+root.scoreCalibrations[2].thresholdSources[0].referenceHtml,"O'Neill MJ, <i>et al</i>. Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve . Circulation. 2024; 150:1869-1881. 10.1161/CIRCULATIONAHA.124.069828"
+root.scoreCalibrations[2].thresholdSources[0].id,124
+root.scoreCalibrations[2].methodSources[0].identifier,31892348
+root.scoreCalibrations[2].methodSources[0].dbName,PubMed
+root.scoreCalibrations[2].methodSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[2].methodSources[0].title,Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework.
+root.scoreCalibrations[2].methodSources[0].authors[0].name,Brnich SE
+root.scoreCalibrations[2].methodSources[0].authors[0].primary,True
+root.scoreCalibrations[2].methodSources[0].authors[1].name,Abou Tayoun AN
+root.scoreCalibrations[2].methodSources[0].authors[1].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[2].name,Couch FJ
+root.scoreCalibrations[2].methodSources[0].authors[2].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[3].name,Cutting GR
+root.scoreCalibrations[2].methodSources[0].authors[3].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[4].name,Greenblatt MS
+root.scoreCalibrations[2].methodSources[0].authors[4].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[5].name,Heinen CD
+root.scoreCalibrations[2].methodSources[0].authors[5].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[6].name,Kanavy DM
+root.scoreCalibrations[2].methodSources[0].authors[6].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[7].name,Luo X
+root.scoreCalibrations[2].methodSources[0].authors[7].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[8].name,McNulty SM
+root.scoreCalibrations[2].methodSources[0].authors[8].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[9].name,Starita LM
+root.scoreCalibrations[2].methodSources[0].authors[9].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[10].name,Tavtigian SV
+root.scoreCalibrations[2].methodSources[0].authors[10].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[11].name,Wright MW
+root.scoreCalibrations[2].methodSources[0].authors[11].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[12].name,Harrison SM
+root.scoreCalibrations[2].methodSources[0].authors[12].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[13].name,Biesecker LG
+root.scoreCalibrations[2].methodSources[0].authors[13].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[14].name,Berg JS
+root.scoreCalibrations[2].methodSources[0].authors[14].primary,False
+root.scoreCalibrations[2].methodSources[0].authors[15].name,Clinical Genome Resource Sequence Variant Interpretation Working Group
+root.scoreCalibrations[2].methodSources[0].authors[15].primary,False
+root.scoreCalibrations[2].methodSources[0].abstract,"The American College of Medical Genetics and Genomics (ACMG)/Association for Molecular Pathology (AMP) clinical variant interpretation guidelines established criteria for different types of evidence. This includes the strong evidence codes PS3 and BS3 for ""well-established"" functional assays demonstrating a variant has abnormal or normal gene/protein function, respectively. However, they did not provide detailed guidance on how functional evidence should be evaluated, and differences in the appl..."
+root.scoreCalibrations[2].methodSources[0].doi,10.1186/s13073-019-0690-2
+root.scoreCalibrations[2].methodSources[0].publicationYear,2019
+root.scoreCalibrations[2].methodSources[0].publicationJournal,Genome Med
+root.scoreCalibrations[2].methodSources[0].url,http://www.ncbi.nlm.nih.gov/pubmed/31892348
+root.scoreCalibrations[2].methodSources[0].referenceHtml,"Brnich SE, <i>et al</i>. Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework. Genome Med. 2019; 12:3. 10.1186/s13073-019-0690-2"
+root.scoreCalibrations[2].methodSources[0].id,150
+root.scoreCalibrations[2].recordType,ScoreCalibration
+root.scoreCalibrations[2].id,764
+root.scoreCalibrations[2].urn,urn:mavedb:calibration-c254f4de-ac40-41b5-87ff-afe9430f043e
+root.scoreCalibrations[2].scoreSetId,4367
+root.scoreCalibrations[2].investigatorProvided,False
+root.scoreCalibrations[2].primary,False
+root.scoreCalibrations[2].private,False
+root.scoreCalibrations[2].createdBy.orcidId,AnonymousUser
+root.scoreCalibrations[2].createdBy.recordType,User
+root.scoreCalibrations[2].modifiedBy.orcidId,AnonymousUser
+root.scoreCalibrations[2].modifiedBy.recordType,User
+root.scoreCalibrations[2].creationDate,2025-11-14
+root.scoreCalibrations[2].modificationDate,2025-11-14
+root.scoreCalibrations[3].title,ExCALIBR calibration
+root.scoreCalibrations[3].researchUseOnly,True
+root.scoreCalibrations[3].functionalClassifications[0].label,BS3 Moderate+ (-3)
+root.scoreCalibrations[3].functionalClassifications[0].functionalClassification,normal
+root.scoreCalibrations[3].functionalClassifications[0].range[0],90.4608159934394
+root.scoreCalibrations[3].functionalClassifications[0].range[1],None
+root.scoreCalibrations[3].functionalClassifications[0].inclusiveLowerBound,False
+root.scoreCalibrations[3].functionalClassifications[0].inclusiveUpperBound,False
+root.scoreCalibrations[3].functionalClassifications[0].acmgClassification.criterion,BS3
+root.scoreCalibrations[3].functionalClassifications[0].acmgClassification.evidenceStrength,MODERATE_PLUS
+root.scoreCalibrations[3].functionalClassifications[0].acmgClassification.points,-3
+root.scoreCalibrations[3].functionalClassifications[0].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[3].functionalClassifications[0].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[0].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[0].id,6404
+root.scoreCalibrations[3].functionalClassifications[0].recordType,FunctionalClassification
+root.scoreCalibrations[3].functionalClassifications[0].variantCount,10157
+root.scoreCalibrations[3].functionalClassifications[1].label,BS3 Moderate (-2)
+root.scoreCalibrations[3].functionalClassifications[1].functionalClassification,normal
+root.scoreCalibrations[3].functionalClassifications[1].range[0],77.34771631459812
+root.scoreCalibrations[3].functionalClassifications[1].range[1],90.4608159934394
+root.scoreCalibrations[3].functionalClassifications[1].inclusiveLowerBound,False
+root.scoreCalibrations[3].functionalClassifications[1].inclusiveUpperBound,True
+root.scoreCalibrations[3].functionalClassifications[1].acmgClassification.criterion,BS3
+root.scoreCalibrations[3].functionalClassifications[1].acmgClassification.evidenceStrength,MODERATE
+root.scoreCalibrations[3].functionalClassifications[1].acmgClassification.points,-2
+root.scoreCalibrations[3].functionalClassifications[1].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[3].functionalClassifications[1].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[1].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[1].id,6405
+root.scoreCalibrations[3].functionalClassifications[1].recordType,FunctionalClassification
+root.scoreCalibrations[3].functionalClassifications[1].variantCount,2721
+root.scoreCalibrations[3].functionalClassifications[2].label,BS3 Supporting (-1)
+root.scoreCalibrations[3].functionalClassifications[2].functionalClassification,normal
+root.scoreCalibrations[3].functionalClassifications[2].range[0],68.2076901205401
+root.scoreCalibrations[3].functionalClassifications[2].range[1],77.34771631459812
+root.scoreCalibrations[3].functionalClassifications[2].inclusiveLowerBound,False
+root.scoreCalibrations[3].functionalClassifications[2].inclusiveUpperBound,True
+root.scoreCalibrations[3].functionalClassifications[2].acmgClassification.criterion,BS3
+root.scoreCalibrations[3].functionalClassifications[2].acmgClassification.evidenceStrength,SUPPORTING
+root.scoreCalibrations[3].functionalClassifications[2].acmgClassification.points,-1
+root.scoreCalibrations[3].functionalClassifications[2].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[3].functionalClassifications[2].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[2].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[2].id,6406
+root.scoreCalibrations[3].functionalClassifications[2].recordType,FunctionalClassification
+root.scoreCalibrations[3].functionalClassifications[2].variantCount,1602
+root.scoreCalibrations[3].functionalClassifications[3].label,PS3 Supporting (1)
+root.scoreCalibrations[3].functionalClassifications[3].functionalClassification,abnormal
+root.scoreCalibrations[3].functionalClassifications[3].range[0],38.3607095082521
+root.scoreCalibrations[3].functionalClassifications[3].range[1],45.71970276085557
+root.scoreCalibrations[3].functionalClassifications[3].inclusiveLowerBound,True
+root.scoreCalibrations[3].functionalClassifications[3].inclusiveUpperBound,False
+root.scoreCalibrations[3].functionalClassifications[3].acmgClassification.criterion,PS3
+root.scoreCalibrations[3].functionalClassifications[3].acmgClassification.evidenceStrength,SUPPORTING
+root.scoreCalibrations[3].functionalClassifications[3].acmgClassification.points,1
+root.scoreCalibrations[3].functionalClassifications[3].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[3].functionalClassifications[3].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[3].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[3].id,6407
+root.scoreCalibrations[3].functionalClassifications[3].recordType,FunctionalClassification
+root.scoreCalibrations[3].functionalClassifications[3].variantCount,353
+root.scoreCalibrations[3].functionalClassifications[4].label,PS3 Moderate (2)
+root.scoreCalibrations[3].functionalClassifications[4].functionalClassification,abnormal
+root.scoreCalibrations[3].functionalClassifications[4].range[0],29.612119125502772
+root.scoreCalibrations[3].functionalClassifications[4].range[1],38.3607095082521
+root.scoreCalibrations[3].functionalClassifications[4].inclusiveLowerBound,True
+root.scoreCalibrations[3].functionalClassifications[4].inclusiveUpperBound,False
+root.scoreCalibrations[3].functionalClassifications[4].acmgClassification.criterion,PS3
+root.scoreCalibrations[3].functionalClassifications[4].acmgClassification.evidenceStrength,MODERATE
+root.scoreCalibrations[3].functionalClassifications[4].acmgClassification.points,2
+root.scoreCalibrations[3].functionalClassifications[4].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[3].functionalClassifications[4].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[4].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[4].id,6408
+root.scoreCalibrations[3].functionalClassifications[4].recordType,FunctionalClassification
+root.scoreCalibrations[3].functionalClassifications[4].variantCount,349
+root.scoreCalibrations[3].functionalClassifications[5].label,PS3 Moderate+ (3)
+root.scoreCalibrations[3].functionalClassifications[5].functionalClassification,abnormal
+root.scoreCalibrations[3].functionalClassifications[5].range[0],0.03914358113086949
+root.scoreCalibrations[3].functionalClassifications[5].range[1],29.612119125502772
+root.scoreCalibrations[3].functionalClassifications[5].inclusiveLowerBound,True
+root.scoreCalibrations[3].functionalClassifications[5].inclusiveUpperBound,False
+root.scoreCalibrations[3].functionalClassifications[5].acmgClassification.criterion,PS3
+root.scoreCalibrations[3].functionalClassifications[5].acmgClassification.evidenceStrength,MODERATE_PLUS
+root.scoreCalibrations[3].functionalClassifications[5].acmgClassification.points,3
+root.scoreCalibrations[3].functionalClassifications[5].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[3].functionalClassifications[5].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[5].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[5].id,6409
+root.scoreCalibrations[3].functionalClassifications[5].recordType,FunctionalClassification
+root.scoreCalibrations[3].functionalClassifications[5].variantCount,1268
+root.scoreCalibrations[3].functionalClassifications[6].label,PS3 Strong (4)
+root.scoreCalibrations[3].functionalClassifications[6].functionalClassification,abnormal
+root.scoreCalibrations[3].functionalClassifications[6].range[0],None
+root.scoreCalibrations[3].functionalClassifications[6].range[1],0.03914358113086949
+root.scoreCalibrations[3].functionalClassifications[6].inclusiveLowerBound,False
+root.scoreCalibrations[3].functionalClassifications[6].inclusiveUpperBound,False
+root.scoreCalibrations[3].functionalClassifications[6].acmgClassification.criterion,PS3
+root.scoreCalibrations[3].functionalClassifications[6].acmgClassification.evidenceStrength,STRONG
+root.scoreCalibrations[3].functionalClassifications[6].acmgClassification.points,4
+root.scoreCalibrations[3].functionalClassifications[6].acmgClassification.recordType,ACMGClassification
+root.scoreCalibrations[3].functionalClassifications[6].acmgClassification.creationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[6].acmgClassification.modificationDate,2026-02-06
+root.scoreCalibrations[3].functionalClassifications[6].id,6410
+root.scoreCalibrations[3].functionalClassifications[6].recordType,FunctionalClassification
+root.scoreCalibrations[3].functionalClassifications[6].variantCount,4292
+root.scoreCalibrations[3].thresholdSources[0].identifier,2025.04.29.651326
+root.scoreCalibrations[3].thresholdSources[0].dbName,bioRxiv
+root.scoreCalibrations[3].thresholdSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[3].thresholdSources[0].title,Gene-based calibration of high-throughput functional assays for clinical variant classification
+root.scoreCalibrations[3].thresholdSources[0].authors[0].name,"Zeiberg, D."
+root.scoreCalibrations[3].thresholdSources[0].authors[0].primary,True
+root.scoreCalibrations[3].thresholdSources[0].authors[1].name,"Tejura, M."
+root.scoreCalibrations[3].thresholdSources[0].authors[1].primary,False
+root.scoreCalibrations[3].thresholdSources[0].authors[2].name,"McEwen, A. E."
+root.scoreCalibrations[3].thresholdSources[0].authors[2].primary,False
+root.scoreCalibrations[3].thresholdSources[0].authors[3].name,"Fayer, S."
+root.scoreCalibrations[3].thresholdSources[0].authors[3].primary,False
+root.scoreCalibrations[3].thresholdSources[0].authors[4].name,"Pejaver, V."
+root.scoreCalibrations[3].thresholdSources[0].authors[4].primary,False
+root.scoreCalibrations[3].thresholdSources[0].authors[5].name,"Rubin, A. F."
+root.scoreCalibrations[3].thresholdSources[0].authors[5].primary,False
+root.scoreCalibrations[3].thresholdSources[0].authors[6].name,"Starita, L. M."
+root.scoreCalibrations[3].thresholdSources[0].authors[6].primary,False
+root.scoreCalibrations[3].thresholdSources[0].authors[7].name,"Fowler, D. M."
+root.scoreCalibrations[3].thresholdSources[0].authors[7].primary,False
+root.scoreCalibrations[3].thresholdSources[0].authors[8].name,"O'Donnell-Luria, A."
+root.scoreCalibrations[3].thresholdSources[0].authors[8].primary,False
+root.scoreCalibrations[3].thresholdSources[0].authors[9].name,"Radivojac, P."
+root.scoreCalibrations[3].thresholdSources[0].authors[9].primary,False
+root.scoreCalibrations[3].thresholdSources[0].abstract,"High-throughput functional assays measure the effects of variants on macromolecular function and can aid in reclassifying the rapidly growing number of variants of uncertain significance. Under the current clinical variant classification guidelines, using functional data as a line of evidence to assert pathogenicity relies on determining assay score thresholds that define variants as functionally normal or functionally abnormal. These thresholds are designed to maximize the separation of variant..."
+root.scoreCalibrations[3].thresholdSources[0].doi,10.1101/2025.04.29.651326
+root.scoreCalibrations[3].thresholdSources[0].publicationYear,2025
+root.scoreCalibrations[3].thresholdSources[0].publicationJournal,Preprint
+root.scoreCalibrations[3].thresholdSources[0].url,https://www.biorxiv.org/content/10.1101/2025.04.29.651326
+root.scoreCalibrations[3].thresholdSources[0].referenceHtml,"Zeiberg, D., <i>et al</i>. Gene-based calibration of high-throughput functional assays for clinical variant classification. (None). 2025; (Unknown volume):(Unknown pages). 10.1101/2025.04.29.651326"
+root.scoreCalibrations[3].thresholdSources[0].id,176
+root.scoreCalibrations[3].evidenceSources[0].identifier,2025.04.29.651326
+root.scoreCalibrations[3].evidenceSources[0].dbName,bioRxiv
+root.scoreCalibrations[3].evidenceSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[3].evidenceSources[0].title,Gene-based calibration of high-throughput functional assays for clinical variant classification
+root.scoreCalibrations[3].evidenceSources[0].authors[0].name,"Zeiberg, D."
+root.scoreCalibrations[3].evidenceSources[0].authors[0].primary,True
+root.scoreCalibrations[3].evidenceSources[0].authors[1].name,"Tejura, M."
+root.scoreCalibrations[3].evidenceSources[0].authors[1].primary,False
+root.scoreCalibrations[3].evidenceSources[0].authors[2].name,"McEwen, A. E."
+root.scoreCalibrations[3].evidenceSources[0].authors[2].primary,False
+root.scoreCalibrations[3].evidenceSources[0].authors[3].name,"Fayer, S."
+root.scoreCalibrations[3].evidenceSources[0].authors[3].primary,False
+root.scoreCalibrations[3].evidenceSources[0].authors[4].name,"Pejaver, V."
+root.scoreCalibrations[3].evidenceSources[0].authors[4].primary,False
+root.scoreCalibrations[3].evidenceSources[0].authors[5].name,"Rubin, A. F."
+root.scoreCalibrations[3].evidenceSources[0].authors[5].primary,False
+root.scoreCalibrations[3].evidenceSources[0].authors[6].name,"Starita, L. M."
+root.scoreCalibrations[3].evidenceSources[0].authors[6].primary,False
+root.scoreCalibrations[3].evidenceSources[0].authors[7].name,"Fowler, D. M."
+root.scoreCalibrations[3].evidenceSources[0].authors[7].primary,False
+root.scoreCalibrations[3].evidenceSources[0].authors[8].name,"O'Donnell-Luria, A."
+root.scoreCalibrations[3].evidenceSources[0].authors[8].primary,False
+root.scoreCalibrations[3].evidenceSources[0].authors[9].name,"Radivojac, P."
+root.scoreCalibrations[3].evidenceSources[0].authors[9].primary,False
+root.scoreCalibrations[3].evidenceSources[0].abstract,"High-throughput functional assays measure the effects of variants on macromolecular function and can aid in reclassifying the rapidly growing number of variants of uncertain significance. Under the current clinical variant classification guidelines, using functional data as a line of evidence to assert pathogenicity relies on determining assay score thresholds that define variants as functionally normal or functionally abnormal. These thresholds are designed to maximize the separation of variant..."
+root.scoreCalibrations[3].evidenceSources[0].doi,10.1101/2025.04.29.651326
+root.scoreCalibrations[3].evidenceSources[0].publicationYear,2025
+root.scoreCalibrations[3].evidenceSources[0].publicationJournal,Preprint
+root.scoreCalibrations[3].evidenceSources[0].url,https://www.biorxiv.org/content/10.1101/2025.04.29.651326
+root.scoreCalibrations[3].evidenceSources[0].referenceHtml,"Zeiberg, D., <i>et al</i>. Gene-based calibration of high-throughput functional assays for clinical variant classification. (None). 2025; (Unknown volume):(Unknown pages). 10.1101/2025.04.29.651326"
+root.scoreCalibrations[3].evidenceSources[0].id,176
+root.scoreCalibrations[3].methodSources[0].identifier,2025.04.29.651326
+root.scoreCalibrations[3].methodSources[0].dbName,bioRxiv
+root.scoreCalibrations[3].methodSources[0].recordType,PublicationIdentifier
+root.scoreCalibrations[3].methodSources[0].title,Gene-based calibration of high-throughput functional assays for clinical variant classification
+root.scoreCalibrations[3].methodSources[0].authors[0].name,"Zeiberg, D."
+root.scoreCalibrations[3].methodSources[0].authors[0].primary,True
+root.scoreCalibrations[3].methodSources[0].authors[1].name,"Tejura, M."
+root.scoreCalibrations[3].methodSources[0].authors[1].primary,False
+root.scoreCalibrations[3].methodSources[0].authors[2].name,"McEwen, A. E."
+root.scoreCalibrations[3].methodSources[0].authors[2].primary,False
+root.scoreCalibrations[3].methodSources[0].authors[3].name,"Fayer, S."
+root.scoreCalibrations[3].methodSources[0].authors[3].primary,False
+root.scoreCalibrations[3].methodSources[0].authors[4].name,"Pejaver, V."
+root.scoreCalibrations[3].methodSources[0].authors[4].primary,False
+root.scoreCalibrations[3].methodSources[0].authors[5].name,"Rubin, A. F."
+root.scoreCalibrations[3].methodSources[0].authors[5].primary,False
+root.scoreCalibrations[3].methodSources[0].authors[6].name,"Starita, L. M."
+root.scoreCalibrations[3].methodSources[0].authors[6].primary,False
+root.scoreCalibrations[3].methodSources[0].authors[7].name,"Fowler, D. M."
+root.scoreCalibrations[3].methodSources[0].authors[7].primary,False
+root.scoreCalibrations[3].methodSources[0].authors[8].name,"O'Donnell-Luria, A."
+root.scoreCalibrations[3].methodSources[0].authors[8].primary,False
+root.scoreCalibrations[3].methodSources[0].authors[9].name,"Radivojac, P."
+root.scoreCalibrations[3].methodSources[0].authors[9].primary,False
+root.scoreCalibrations[3].methodSources[0].abstract,"High-throughput functional assays measure the effects of variants on macromolecular function and can aid in reclassifying the rapidly growing number of variants of uncertain significance. Under the current clinical variant classification guidelines, using functional data as a line of evidence to assert pathogenicity relies on determining assay score thresholds that define variants as functionally normal or functionally abnormal. These thresholds are designed to maximize the separation of variant..."
+root.scoreCalibrations[3].methodSources[0].doi,10.1101/2025.04.29.651326
+root.scoreCalibrations[3].methodSources[0].publicationYear,2025
+root.scoreCalibrations[3].methodSources[0].publicationJournal,Preprint
+root.scoreCalibrations[3].methodSources[0].url,https://www.biorxiv.org/content/10.1101/2025.04.29.651326
+root.scoreCalibrations[3].methodSources[0].referenceHtml,"Zeiberg, D., <i>et al</i>. Gene-based calibration of high-throughput functional assays for clinical variant classification. (None). 2025; (Unknown volume):(Unknown pages). 10.1101/2025.04.29.651326"
+root.scoreCalibrations[3].methodSources[0].id,176
+root.scoreCalibrations[3].calibrationMetadata.prior_probability_pathogenicity,0.08425641456
+root.scoreCalibrations[3].recordType,ScoreCalibration
+root.scoreCalibrations[3].id,2323
+root.scoreCalibrations[3].urn,urn:mavedb:calibration-8a7c5482-35ae-45f5-a71c-4e22af0a6cd9
+root.scoreCalibrations[3].scoreSetId,4367
+root.scoreCalibrations[3].investigatorProvided,False
+root.scoreCalibrations[3].primary,False
+root.scoreCalibrations[3].private,False
+root.scoreCalibrations[3].createdBy.orcidId,AnonymousUser
+root.scoreCalibrations[3].createdBy.recordType,User
+root.scoreCalibrations[3].modifiedBy.orcidId,AnonymousUser
+root.scoreCalibrations[3].modifiedBy.recordType,User
+root.scoreCalibrations[3].creationDate,2026-02-24
+root.scoreCalibrations[3].modificationDate,2026-02-24
+root.experiment.title,Cell surface expression deep mutational scan of KCNH2 in HEK293T cells
+root.experiment.shortDescription,Cell surface expression deep mutational scan of KCNH2 variants in HEK293T cells
+root.experiment.abstractText,"Background: Long QT syndrome is a lethal arrhythmia syndrome, frequently caused by rare loss-of-function variants in the potassium channel encoded by _KCNH2_. Variant classification is difficult, often because of lack of functional data. Moreover, variant-based risk stratification is also complicated by heterogenous clinical data and incomplete penetrance. Here we sought to test whether variant-specific information, primarily from high-throughput functional assays, could improve both classificat..."
+root.experiment.methodText,"A flow cytometry based assay was used to measure membrane concentration of _KCNH2_.  A barcoded _KCNH2_ library was then stably integrated into landing-pad HEK293T cells using BxB1 recombinase. After inducing channel expression, cells were stained with a hemagglutinin (HA) antibody and flow-sorted based on cell surface KV11.1 abundance, separating cells into bins with high versus low surface expression. DNA was then extracted from each bin, and the barcodes were sequenced to quantify variant abu..."
+root.experiment.primaryPublicationIdentifiers[0].identifier,39315434
+root.experiment.primaryPublicationIdentifiers[0].dbName,PubMed
+root.experiment.primaryPublicationIdentifiers[0].recordType,PublicationIdentifier
+root.experiment.primaryPublicationIdentifiers[0].title,Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve 
+root.experiment.primaryPublicationIdentifiers[0].authors[0].name,O'Neill MJ
+root.experiment.primaryPublicationIdentifiers[0].authors[0].primary,True
+root.experiment.primaryPublicationIdentifiers[0].authors[1].name,Ng CA
+root.experiment.primaryPublicationIdentifiers[0].authors[1].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[2].name,Aizawa T
+root.experiment.primaryPublicationIdentifiers[0].authors[2].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[3].name,Sala L
+root.experiment.primaryPublicationIdentifiers[0].authors[3].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[4].name,Bains S
+root.experiment.primaryPublicationIdentifiers[0].authors[4].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[5].name,Winbo A
+root.experiment.primaryPublicationIdentifiers[0].authors[5].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[6].name,Ullah R
+root.experiment.primaryPublicationIdentifiers[0].authors[6].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[7].name,Shen Q
+root.experiment.primaryPublicationIdentifiers[0].authors[7].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[8].name,Tan CY
+root.experiment.primaryPublicationIdentifiers[0].authors[8].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[9].name,Kozek K
+root.experiment.primaryPublicationIdentifiers[0].authors[9].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[10].name,Vanags LR
+root.experiment.primaryPublicationIdentifiers[0].authors[10].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[11].name,Mitchell DW
+root.experiment.primaryPublicationIdentifiers[0].authors[11].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[12].name,Shen A
+root.experiment.primaryPublicationIdentifiers[0].authors[12].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[13].name,Wada Y
+root.experiment.primaryPublicationIdentifiers[0].authors[13].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[14].name,Kashiwa A
+root.experiment.primaryPublicationIdentifiers[0].authors[14].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[15].name,Crotti L
+root.experiment.primaryPublicationIdentifiers[0].authors[15].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[16].name,Dagradi F
+root.experiment.primaryPublicationIdentifiers[0].authors[16].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[17].name,Musu G
+root.experiment.primaryPublicationIdentifiers[0].authors[17].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[18].name,Spazzolini C
+root.experiment.primaryPublicationIdentifiers[0].authors[18].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[19].name,Neves R
+root.experiment.primaryPublicationIdentifiers[0].authors[19].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[20].name,Bos JM
+root.experiment.primaryPublicationIdentifiers[0].authors[20].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[21].name,Giudicessi JR
+root.experiment.primaryPublicationIdentifiers[0].authors[21].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[22].name,Bledsoe X
+root.experiment.primaryPublicationIdentifiers[0].authors[22].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[23].name,Gamazon ER
+root.experiment.primaryPublicationIdentifiers[0].authors[23].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[24].name,Lancaster MC
+root.experiment.primaryPublicationIdentifiers[0].authors[24].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[25].name,Glazer AM
+root.experiment.primaryPublicationIdentifiers[0].authors[25].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[26].name,Knollmann BC
+root.experiment.primaryPublicationIdentifiers[0].authors[26].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[27].name,Roden DM
+root.experiment.primaryPublicationIdentifiers[0].authors[27].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[28].name,Weile J
+root.experiment.primaryPublicationIdentifiers[0].authors[28].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[29].name,Roth F
+root.experiment.primaryPublicationIdentifiers[0].authors[29].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[30].name,Salem JE
+root.experiment.primaryPublicationIdentifiers[0].authors[30].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[31].name,Earle N
+root.experiment.primaryPublicationIdentifiers[0].authors[31].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[32].name,Stiles R
+root.experiment.primaryPublicationIdentifiers[0].authors[32].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[33].name,Agee T
+root.experiment.primaryPublicationIdentifiers[0].authors[33].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[34].name,Johnson CN
+root.experiment.primaryPublicationIdentifiers[0].authors[34].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[35].name,Horie M
+root.experiment.primaryPublicationIdentifiers[0].authors[35].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[36].name,Skinner JR
+root.experiment.primaryPublicationIdentifiers[0].authors[36].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[37].name,Ackerman MJ
+root.experiment.primaryPublicationIdentifiers[0].authors[37].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[38].name,Schwartz PJ
+root.experiment.primaryPublicationIdentifiers[0].authors[38].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[39].name,Ohno S
+root.experiment.primaryPublicationIdentifiers[0].authors[39].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[40].name,Vandenberg JI
+root.experiment.primaryPublicationIdentifiers[0].authors[40].primary,False
+root.experiment.primaryPublicationIdentifiers[0].authors[41].name,Kroncke BM
+root.experiment.primaryPublicationIdentifiers[0].authors[41].primary,False
+root.experiment.primaryPublicationIdentifiers[0].abstract,"Long QT syndrome is a lethal arrhythmia syndrome, frequently caused by rare loss-of-function variants in the potassium channel encoded by KCNH2. Variant classification is difficult, often because of lack of functional data. Moreover, variant-based risk stratification is also complicated by heterogenous clinical data and incomplete penetrance. Here we sought to test whether variant-specific information, primarily from high-throughput functional assays, could improve both classification and cardia..."
+root.experiment.primaryPublicationIdentifiers[0].doi,10.1161/CIRCULATIONAHA.124.069828
+root.experiment.primaryPublicationIdentifiers[0].publicationYear,2024
+root.experiment.primaryPublicationIdentifiers[0].publicationJournal,Circulation
+root.experiment.primaryPublicationIdentifiers[0].url,http://www.ncbi.nlm.nih.gov/pubmed/39315434
+root.experiment.primaryPublicationIdentifiers[0].referenceHtml,"O'Neill MJ, <i>et al</i>. Multiplexed Assays of Variant Effect and Automated Patch Clamping Improve . Circulation. 2024; 150:1869-1881. 10.1161/CIRCULATIONAHA.124.069828"
+root.experiment.primaryPublicationIdentifiers[0].id,124
+root.experiment.keywords[0].keyword.key,Delivery Method
+root.experiment.keywords[0].recordType,ExperimentControlledKeyword
+root.experiment.keywords[1].keyword.key,In Vitro Construct Library Method Mechanism
+root.experiment.keywords[1].keyword.description,The mechanism for integration or expression of an exogenous construct
+root.experiment.keywords[1].recordType,ExperimentControlledKeyword
+root.experiment.keywords[2].keyword.key,In Vitro Construct Library Method System
+root.experiment.keywords[2].keyword.description,The type of method used to generate the library
+root.experiment.keywords[2].recordType,ExperimentControlledKeyword
+root.experiment.keywords[3].keyword.key,Phenotypic Assay Dimensionality
+root.experiment.keywords[3].keyword.description,A coding defining the dimensionality of the assay as single or multiple functional readouts.
+root.experiment.keywords[3].recordType,ExperimentControlledKeyword
+root.experiment.keywords[4].keyword.key,Phenotypic Assay Mechanism
+root.experiment.keywords[4].recordType,ExperimentControlledKeyword
+root.experiment.keywords[5].keyword.key,Phenotypic Assay Model System
+root.experiment.keywords[5].keyword.description,The model system context that influences expression of the phenotype.
+root.experiment.keywords[5].recordType,ExperimentControlledKeyword
+root.experiment.keywords[6].keyword.key,Phenotypic Assay Profiling Strategy
+root.experiment.keywords[6].recordType,ExperimentControlledKeyword
+root.experiment.keywords[7].keyword.key,Phenotypic Assay Sequencing Read Type
+root.experiment.keywords[7].keyword.description,The sequencing method used
+root.experiment.keywords[7].recordType,ExperimentControlledKeyword
+root.experiment.keywords[8].keyword.key,Variant Library Creation Method
+root.experiment.keywords[8].keyword.label,In vitro construct library method
+root.experiment.keywords[8].keyword.description,A methodology for generating a variant library at an endogenous locus
+root.experiment.keywords[8].recordType,ExperimentControlledKeyword
+root.experiment.keywords[9].keyword.key,Phenotypic Assay Method
+root.experiment.keywords[9].keyword.description,"The assay method, defining the molecular properties interrogated."
+root.experiment.keywords[9].recordType,ExperimentControlledKeyword
+root.experiment.keywords[10].keyword.description,The biological or molecular process investigated by the assay
+root.experiment.keywords[10].recordType,ExperimentControlledKeyword
+root.experiment.scoreSetUrns[0],urn:mavedb:00001231-a-2
+root.experiment.numScoreSets,1
+root.officialCollections[0].scoreSetUrns[0],urn:mavedb:00000657-a-1
+root.officialCollections[0].scoreSetUrns[1],urn:mavedb:00000657-b-1
+root.officialCollections[0].scoreSetUrns[2],urn:mavedb:00000662-0-1
+root.officialCollections[0].scoreSetUrns[3],urn:mavedb:00001250-a-1
+root.officialCollections[0].scoreSetUrns[4],urn:mavedb:00001222-a-2
+root.officialCollections[0].scoreSetUrns[5],urn:mavedb:00001222-b-2
+root.officialCollections[0].scoreSetUrns[6],urn:mavedb:00000097-0-2
+root.officialCollections[0].scoreSetUrns[7],urn:mavedb:00001224-a-1
+root.officialCollections[0].scoreSetUrns[8],urn:mavedb:00001263-a-1
+root.officialCollections[0].scoreSetUrns[9],urn:mavedb:00001268-0-1
+root.officialCollections[0].scoreSetUrns[10],urn:mavedb:00001268-a-1
+root.officialCollections[0].scoreSetUrns[11],urn:mavedb:00001268-b-1
+root.officialCollections[0].scoreSetUrns[12],urn:mavedb:00001268-c-1
+root.officialCollections[0].scoreSetUrns[13],urn:mavedb:00001242-a-1
+root.officialCollections[0].scoreSetUrns[14],urn:mavedb:00000001-c-1
+root.officialCollections[0].scoreSetUrns[15],urn:mavedb:00001226-a-1
+root.officialCollections[0].scoreSetUrns[16],urn:mavedb:00001226-b-1
+root.officialCollections[0].scoreSetUrns[17],urn:mavedb:00000005-a-5
+root.officialCollections[0].scoreSetUrns[18],urn:mavedb:00000005-a-6
+root.officialCollections[0].scoreSetUrns[19],urn:mavedb:00001205-a-1
+root.officialCollections[0].scoreSetUrns[20],urn:mavedb:00001227-a-2
+root.officialCollections[0].scoreSetUrns[21],urn:mavedb:00001262-a-1
+root.officialCollections[0].scoreSetUrns[22],urn:mavedb:00001228-a-1
+root.officialCollections[0].scoreSetUrns[23],urn:mavedb:00001200-0-1
+root.officialCollections[0].scoreSetUrns[24],urn:mavedb:00001200-a-1
+root.officialCollections[0].scoreSetUrns[25],urn:mavedb:00001200-b-1
+root.officialCollections[0].scoreSetUrns[26],urn:mavedb:00001200-c-1
+root.officialCollections[0].scoreSetUrns[27],urn:mavedb:00001200-d-1
+root.officialCollections[0].scoreSetUrns[28],urn:mavedb:00001200-e-1
+root.officialCollections[0].scoreSetUrns[29],urn:mavedb:00001197-a-5
+root.officialCollections[0].scoreSetUrns[30],urn:mavedb:00001266-b-1
+root.officialCollections[0].scoreSetUrns[31],urn:mavedb:00000096-a-1
+root.officialCollections[0].scoreSetUrns[32],urn:mavedb:00000096-b-1
+root.officialCollections[0].scoreSetUrns[33],urn:mavedb:00000108-0-1
+root.officialCollections[0].scoreSetUrns[34],urn:mavedb:00000108-a-1
+root.officialCollections[0].scoreSetUrns[35],urn:mavedb:00000108-b-1
+root.officialCollections[0].scoreSetUrns[36],urn:mavedb:00001198-a-1
+root.officialCollections[0].scoreSetUrns[37],urn:mavedb:00000674-a-2
+root.officialCollections[0].scoreSetUrns[38],urn:mavedb:00000674-b-1
+root.officialCollections[0].scoreSetUrns[39],urn:mavedb:00000674-c-1
+root.officialCollections[0].scoreSetUrns[40],urn:mavedb:00001230-a-2
+root.officialCollections[0].scoreSetUrns[41],urn:mavedb:00001229-a-2
+root.officialCollections[0].scoreSetUrns[42],urn:mavedb:00001231-a-2
+root.officialCollections[0].scoreSetUrns[43],urn:mavedb:00000094-a-2
+root.officialCollections[0].scoreSetUrns[44],urn:mavedb:00000094-a-3
+root.officialCollections[0].scoreSetUrns[45],urn:mavedb:00001254-a-1
+root.officialCollections[0].scoreSetUrns[46],urn:mavedb:00000050-a-1
+root.officialCollections[0].scoreSetUrns[47],urn:mavedb:00000663-a-1
+root.officialCollections[0].scoreSetUrns[48],urn:mavedb:00000112-a-1
+root.officialCollections[0].scoreSetUrns[49],urn:mavedb:00001259-a-1
+root.officialCollections[0].scoreSetUrns[50],urn:mavedb:00000665-a-1
+root.officialCollections[0].scoreSetUrns[51],urn:mavedb:00000665-b-1
+root.officialCollections[0].scoreSetUrns[52],urn:mavedb:00000665-c-1
+root.officialCollections[0].scoreSetUrns[53],urn:mavedb:00000665-d-1
+root.officialCollections[0].scoreSetUrns[54],urn:mavedb:00000013-a-1
+root.officialCollections[0].scoreSetUrns[55],urn:mavedb:00000054-a-1
+root.officialCollections[0].scoreSetUrns[56],urn:mavedb:00000673-0-1
+root.officialCollections[0].scoreSetUrns[57],urn:mavedb:00001260-a-1
+root.officialCollections[0].scoreSetUrns[58],urn:mavedb:00000099-a-1
+root.officialCollections[0].scoreSetUrns[59],urn:mavedb:00000098-a-2
+root.officialCollections[0].scoreSetUrns[60],urn:mavedb:00001233-a-1
+root.officialCollections[0].scoreSetUrns[61],urn:mavedb:00000659-a-1
+root.officialCollections[0].scoreSetUrns[62],urn:mavedb:00000060-a-1
+root.officialCollections[0].scoreSetUrns[63],urn:mavedb:00000060-a-2
+root.officialCollections[0].scoreSetUrns[64],urn:mavedb:00001235-a-1
+root.officialCollections[0].scoreSetUrns[65],urn:mavedb:00001236-0-1
+root.officialCollections[0].scoreSetUrns[66],urn:mavedb:00000068-0-1
+root.officialCollections[0].scoreSetUrns[67],urn:mavedb:00000068-a-1
+root.officialCollections[0].scoreSetUrns[68],urn:mavedb:00000068-b-1
+root.officialCollections[0].scoreSetUrns[69],urn:mavedb:00000068-c-1
+root.officialCollections[0].scoreSetUrns[70],urn:mavedb:00001234-0-1
+root.officialCollections[0].scoreSetUrns[71],urn:mavedb:00001234-a-1
+root.officialCollections[0].scoreSetUrns[72],urn:mavedb:00001234-b-1
+root.officialCollections[0].scoreSetUrns[73],urn:mavedb:00001234-c-1
+root.officialCollections[0].scoreSetUrns[74],urn:mavedb:00001234-d-1
+root.officialCollections[0].scoreSetUrns[75],urn:mavedb:00001234-e-1
+root.officialCollections[0].scoreSetUrns[76],urn:mavedb:00001234-f-1
+root.officialCollections[0].scoreSetUrns[77],urn:mavedb:00001234-g-1
+root.officialCollections[0].scoreSetUrns[78],urn:mavedb:00001234-h-1
+root.officialCollections[0].scoreSetUrns[79],urn:mavedb:00001251-a-1
+root.officialCollections[0].scoreSetUrns[80],urn:mavedb:00001267-b-1
+root.officialCollections[0].scoreSetUrns[81],urn:mavedb:00000675-a-1
+root.officialCollections[0].scoreSetUrns[82],urn:mavedb:00001264-a-1
+root.officialCollections[0].scoreSetUrns[83],urn:mavedb:00001267-a-2

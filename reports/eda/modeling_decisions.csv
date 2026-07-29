@@ -1,0 +1,9 @@
+decision,choice,biological_reason
+Target,score_numeric,Medición experimental continua
+Unidad de observación,Una sustitución missense,Atribución a un cambio único
+Validación,GroupKFold por position,Generalización a residuos no vistos
+Baseline,Propiedades fisicoquímicas + BLOSUM62,Cambios químicos interpretables
+Representación avanzada,Diferencia de embeddings ESM-2 WT vs mutante,Contexto de secuencia
+Columnas excluidas,"score, se, LLR y columnas derivadas",Target leakage
+Incertidumbre,No filtrar todavía; hacer análisis de sensibilidad,Evitar eliminar datos prematuramente
+Interpretación clínica,"Priorización funcional, no clasificación ACMG",El tráfico no captura toda la evidencia clínica

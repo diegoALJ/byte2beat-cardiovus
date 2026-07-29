@@ -1,0 +1,38 @@
+{
+  "reference": {
+    "id": "NP_000229.1",
+    "length": 1159
+  },
+  "datasets": {
+    "raw_rows": 22824,
+    "qc_rows": 22824,
+    "normalized_missense_rows": 20683
+  },
+  "variant_classes": {
+    "simple_missense": 20683,
+    "stop_gained": 1084,
+    "synonymous": 1057
+  },
+  "quality": {
+    "numeric_scores": 22824,
+    "reference_matches": 20683,
+    "reference_mismatches": 0,
+    "protein_duplicate_rows": 0
+  },
+  "coverage": {
+    "protein_length": 1159.0,
+    "positions_with_missense": 1100.0,
+    "positions_without_missense": 59.0,
+    "fully_covered_positions": 967.0,
+    "observed_missense_variants": 20683.0,
+    "theoretical_missense_space": 22021.0,
+    "global_coverage_fraction": 0.9392398165387584
+  },
+  "score_medians": {
+    "synonymous": 102.873579,
+    "simple_missense": 85.36545142,
+    "stop_gained": 0.0
+  },
+  "score_llr_spearman": -0.9940959392028501,
+  "score_se_spearman": 0.34963537621558266
+}
