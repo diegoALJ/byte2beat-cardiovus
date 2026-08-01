@@ -91,3 +91,26 @@ htmlcov/
 # ==========================================
 .DS_Store
 Thumbs.db
+
+# Version curated KCNH2 annotation tables
+!data/external/kcnh2_uniprot_features.csv
+!data/external/kcnh2_domains.csv
+
+
+kaggle.json
+credentials.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Generated or heavy artifacts
+kaggle_upload/
+outputs/
+*.zip
+*.joblib
+*.pkl
+
+# Large generated datasets
+data/processed/*.parquet
+data/processed/*.csv.gz

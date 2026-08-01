@@ -1,0 +1,23 @@
+domain,start,end,length,feature_type,feature_group,description,uniprot_accession,gene,feature_id,evidence_codes,source
+PAS,41,70,30,Domain,domain,PAS,Q12809,KCNH2,,ECO:0000255,UniProtKB
+PAC,92,144,53,Domain,domain,PAC,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Helical; Name=Segment S1,404,424,21,Transmembrane,membrane,Helical; Name=Segment S1,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Helical; Name=Segment S2,451,471,21,Transmembrane,membrane,Helical; Name=Segment S2,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Helical; Name=Segment S3,496,516,21,Transmembrane,membrane,Helical; Name=Segment S3,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Helical; Voltage-sensor; Name=Segment S4,521,541,21,Transmembrane,membrane,Helical; Voltage-sensor; Name=Segment S4,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Helical; Name=Segment S5,548,568,21,Transmembrane,membrane,Helical; Name=Segment S5,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Pore-forming; Name=Segment H5,612,632,21,Intramembrane,membrane,Pore-forming; Name=Segment H5,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Helical; Name=Segment S6,639,659,21,Transmembrane,membrane,Helical; Name=Segment S6,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Disordered 1,231,314,84,Region,region,Disordered,Q12809,KCNH2,,ECO:0000256,UniProtKB
+cNMP-binding domain,742,842,101,Region,region,cNMP-binding domain,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Disordered 2,870,982,113,Region,region,Disordered,Q12809,KCNH2,,ECO:0000256,UniProtKB
+Disordered 3,1015,1038,24,Region,region,Disordered,Q12809,KCNH2,,ECO:0000256,UniProtKB
+Disordered 4,1119,1159,41,Region,region,Disordered,Q12809,KCNH2,,ECO:0000256,UniProtKB
+Cytoplasmic 1,1,403,403,Topological domain,topology,Cytoplasmic,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Extracellular 1,425,450,26,Topological domain,topology,Extracellular,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Cytoplasmic 2,472,495,24,Topological domain,topology,Cytoplasmic,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Extracellular 2,517,520,4,Topological domain,topology,Extracellular,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Cytoplasmic 3,542,547,6,Topological domain,topology,Cytoplasmic,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Extracellular 3,569,611,43,Topological domain,topology,Extracellular,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Extracellular 4,633,638,6,Topological domain,topology,Extracellular,Q12809,KCNH2,,ECO:0000255,UniProtKB
+Cytoplasmic 4,660,1159,500,Topological domain,topology,Cytoplasmic,Q12809,KCNH2,,ECO:0000255,UniProtKB

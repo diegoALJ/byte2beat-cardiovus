@@ -1,0 +1,1606 @@
+position,feature_label,feature_type,feature_group,feature_start,feature_end
+41,PAS,Domain,domain,41,70
+42,PAS,Domain,domain,41,70
+43,PAS,Domain,domain,41,70
+44,PAS,Domain,domain,41,70
+45,PAS,Domain,domain,41,70
+46,PAS,Domain,domain,41,70
+47,PAS,Domain,domain,41,70
+48,PAS,Domain,domain,41,70
+49,PAS,Domain,domain,41,70
+50,PAS,Domain,domain,41,70
+51,PAS,Domain,domain,41,70
+52,PAS,Domain,domain,41,70
+53,PAS,Domain,domain,41,70
+54,PAS,Domain,domain,41,70
+55,PAS,Domain,domain,41,70
+56,PAS,Domain,domain,41,70
+57,PAS,Domain,domain,41,70
+58,PAS,Domain,domain,41,70
+59,PAS,Domain,domain,41,70
+60,PAS,Domain,domain,41,70
+61,PAS,Domain,domain,41,70
+62,PAS,Domain,domain,41,70
+63,PAS,Domain,domain,41,70
+64,PAS,Domain,domain,41,70
+65,PAS,Domain,domain,41,70
+66,PAS,Domain,domain,41,70
+67,PAS,Domain,domain,41,70
+68,PAS,Domain,domain,41,70
+69,PAS,Domain,domain,41,70
+70,PAS,Domain,domain,41,70
+92,PAC,Domain,domain,92,144
+93,PAC,Domain,domain,92,144
+94,PAC,Domain,domain,92,144
+95,PAC,Domain,domain,92,144
+96,PAC,Domain,domain,92,144
+97,PAC,Domain,domain,92,144
+98,PAC,Domain,domain,92,144
+99,PAC,Domain,domain,92,144
+100,PAC,Domain,domain,92,144
+101,PAC,Domain,domain,92,144
+102,PAC,Domain,domain,92,144
+103,PAC,Domain,domain,92,144
+104,PAC,Domain,domain,92,144
+105,PAC,Domain,domain,92,144
+106,PAC,Domain,domain,92,144
+107,PAC,Domain,domain,92,144
+108,PAC,Domain,domain,92,144
+109,PAC,Domain,domain,92,144
+110,PAC,Domain,domain,92,144
+111,PAC,Domain,domain,92,144
+112,PAC,Domain,domain,92,144
+113,PAC,Domain,domain,92,144
+114,PAC,Domain,domain,92,144
+115,PAC,Domain,domain,92,144
+116,PAC,Domain,domain,92,144
+117,PAC,Domain,domain,92,144
+118,PAC,Domain,domain,92,144
+119,PAC,Domain,domain,92,144
+120,PAC,Domain,domain,92,144
+121,PAC,Domain,domain,92,144
+122,PAC,Domain,domain,92,144
+123,PAC,Domain,domain,92,144
+124,PAC,Domain,domain,92,144
+125,PAC,Domain,domain,92,144
+126,PAC,Domain,domain,92,144
+127,PAC,Domain,domain,92,144
+128,PAC,Domain,domain,92,144
+129,PAC,Domain,domain,92,144
+130,PAC,Domain,domain,92,144
+131,PAC,Domain,domain,92,144
+132,PAC,Domain,domain,92,144
+133,PAC,Domain,domain,92,144
+134,PAC,Domain,domain,92,144
+135,PAC,Domain,domain,92,144
+136,PAC,Domain,domain,92,144
+137,PAC,Domain,domain,92,144
+138,PAC,Domain,domain,92,144
+139,PAC,Domain,domain,92,144
+140,PAC,Domain,domain,92,144
+141,PAC,Domain,domain,92,144
+142,PAC,Domain,domain,92,144
+143,PAC,Domain,domain,92,144
+144,PAC,Domain,domain,92,144
+404,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+405,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+406,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+407,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+408,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+409,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+410,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+411,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+412,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+413,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+414,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+415,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+416,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+417,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+418,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+419,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+420,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+421,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+422,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+423,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+424,Helical; Name=Segment S1,Transmembrane,membrane,404,424
+451,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+452,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+453,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+454,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+455,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+456,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+457,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+458,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+459,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+460,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+461,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+462,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+463,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+464,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+465,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+466,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+467,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+468,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+469,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+470,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+471,Helical; Name=Segment S2,Transmembrane,membrane,451,471
+496,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+497,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+498,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+499,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+500,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+501,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+502,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+503,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+504,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+505,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+506,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+507,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+508,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+509,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+510,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+511,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+512,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+513,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+514,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+515,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+516,Helical; Name=Segment S3,Transmembrane,membrane,496,516
+521,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+522,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+523,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+524,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+525,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+526,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+527,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+528,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+529,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+530,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+531,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+532,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+533,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+534,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+535,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+536,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+537,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+538,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+539,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+540,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+541,Helical; Voltage-sensor; Name=Segment S4,Transmembrane,membrane,521,541
+548,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+549,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+550,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+551,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+552,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+553,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+554,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+555,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+556,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+557,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+558,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+559,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+560,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+561,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+562,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+563,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+564,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+565,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+566,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+567,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+568,Helical; Name=Segment S5,Transmembrane,membrane,548,568
+612,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+613,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+614,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+615,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+616,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+617,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+618,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+619,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+620,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+621,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+622,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+623,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+624,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+625,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+626,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+627,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+628,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+629,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+630,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+631,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+632,Pore-forming; Name=Segment H5,Intramembrane,membrane,612,632
+639,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+640,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+641,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+642,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+643,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+644,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+645,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+646,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+647,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+648,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+649,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+650,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+651,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+652,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+653,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+654,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+655,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+656,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+657,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+658,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+659,Helical; Name=Segment S6,Transmembrane,membrane,639,659
+231,Disordered 1,Region,region,231,314
+232,Disordered 1,Region,region,231,314
+233,Disordered 1,Region,region,231,314
+234,Disordered 1,Region,region,231,314
+235,Disordered 1,Region,region,231,314
+236,Disordered 1,Region,region,231,314
+237,Disordered 1,Region,region,231,314
+238,Disordered 1,Region,region,231,314
+239,Disordered 1,Region,region,231,314
+240,Disordered 1,Region,region,231,314
+241,Disordered 1,Region,region,231,314
+242,Disordered 1,Region,region,231,314
+243,Disordered 1,Region,region,231,314
+244,Disordered 1,Region,region,231,314
+245,Disordered 1,Region,region,231,314
+246,Disordered 1,Region,region,231,314
+247,Disordered 1,Region,region,231,314
+248,Disordered 1,Region,region,231,314
+249,Disordered 1,Region,region,231,314
+250,Disordered 1,Region,region,231,314
+251,Disordered 1,Region,region,231,314
+252,Disordered 1,Region,region,231,314
+253,Disordered 1,Region,region,231,314
+254,Disordered 1,Region,region,231,314
+255,Disordered 1,Region,region,231,314
+256,Disordered 1,Region,region,231,314
+257,Disordered 1,Region,region,231,314
+258,Disordered 1,Region,region,231,314
+259,Disordered 1,Region,region,231,314
+260,Disordered 1,Region,region,231,314
+261,Disordered 1,Region,region,231,314
+262,Disordered 1,Region,region,231,314
+263,Disordered 1,Region,region,231,314
+264,Disordered 1,Region,region,231,314
+265,Disordered 1,Region,region,231,314
+266,Disordered 1,Region,region,231,314
+267,Disordered 1,Region,region,231,314
+268,Disordered 1,Region,region,231,314
+269,Disordered 1,Region,region,231,314
+270,Disordered 1,Region,region,231,314
+271,Disordered 1,Region,region,231,314
+272,Disordered 1,Region,region,231,314
+273,Disordered 1,Region,region,231,314
+274,Disordered 1,Region,region,231,314
+275,Disordered 1,Region,region,231,314
+276,Disordered 1,Region,region,231,314
+277,Disordered 1,Region,region,231,314
+278,Disordered 1,Region,region,231,314
+279,Disordered 1,Region,region,231,314
+280,Disordered 1,Region,region,231,314
+281,Disordered 1,Region,region,231,314
+282,Disordered 1,Region,region,231,314
+283,Disordered 1,Region,region,231,314
+284,Disordered 1,Region,region,231,314
+285,Disordered 1,Region,region,231,314
+286,Disordered 1,Region,region,231,314
+287,Disordered 1,Region,region,231,314
+288,Disordered 1,Region,region,231,314
+289,Disordered 1,Region,region,231,314
+290,Disordered 1,Region,region,231,314
+291,Disordered 1,Region,region,231,314
+292,Disordered 1,Region,region,231,314
+293,Disordered 1,Region,region,231,314
+294,Disordered 1,Region,region,231,314
+295,Disordered 1,Region,region,231,314
+296,Disordered 1,Region,region,231,314
+297,Disordered 1,Region,region,231,314
+298,Disordered 1,Region,region,231,314
+299,Disordered 1,Region,region,231,314
+300,Disordered 1,Region,region,231,314
+301,Disordered 1,Region,region,231,314
+302,Disordered 1,Region,region,231,314
+303,Disordered 1,Region,region,231,314
+304,Disordered 1,Region,region,231,314
+305,Disordered 1,Region,region,231,314
+306,Disordered 1,Region,region,231,314
+307,Disordered 1,Region,region,231,314
+308,Disordered 1,Region,region,231,314
+309,Disordered 1,Region,region,231,314
+310,Disordered 1,Region,region,231,314
+311,Disordered 1,Region,region,231,314
+312,Disordered 1,Region,region,231,314
+313,Disordered 1,Region,region,231,314
+314,Disordered 1,Region,region,231,314
+742,cNMP-binding domain,Region,region,742,842
+743,cNMP-binding domain,Region,region,742,842
+744,cNMP-binding domain,Region,region,742,842
+745,cNMP-binding domain,Region,region,742,842
+746,cNMP-binding domain,Region,region,742,842
+747,cNMP-binding domain,Region,region,742,842
+748,cNMP-binding domain,Region,region,742,842
+749,cNMP-binding domain,Region,region,742,842
+750,cNMP-binding domain,Region,region,742,842
+751,cNMP-binding domain,Region,region,742,842
+752,cNMP-binding domain,Region,region,742,842
+753,cNMP-binding domain,Region,region,742,842
+754,cNMP-binding domain,Region,region,742,842
+755,cNMP-binding domain,Region,region,742,842
+756,cNMP-binding domain,Region,region,742,842
+757,cNMP-binding domain,Region,region,742,842
+758,cNMP-binding domain,Region,region,742,842
+759,cNMP-binding domain,Region,region,742,842
+760,cNMP-binding domain,Region,region,742,842
+761,cNMP-binding domain,Region,region,742,842
+762,cNMP-binding domain,Region,region,742,842
+763,cNMP-binding domain,Region,region,742,842
+764,cNMP-binding domain,Region,region,742,842
+765,cNMP-binding domain,Region,region,742,842
+766,cNMP-binding domain,Region,region,742,842
+767,cNMP-binding domain,Region,region,742,842
+768,cNMP-binding domain,Region,region,742,842
+769,cNMP-binding domain,Region,region,742,842
+770,cNMP-binding domain,Region,region,742,842
+771,cNMP-binding domain,Region,region,742,842
+772,cNMP-binding domain,Region,region,742,842
+773,cNMP-binding domain,Region,region,742,842
+774,cNMP-binding domain,Region,region,742,842
+775,cNMP-binding domain,Region,region,742,842
+776,cNMP-binding domain,Region,region,742,842
+777,cNMP-binding domain,Region,region,742,842
+778,cNMP-binding domain,Region,region,742,842
+779,cNMP-binding domain,Region,region,742,842
+780,cNMP-binding domain,Region,region,742,842
+781,cNMP-binding domain,Region,region,742,842
+782,cNMP-binding domain,Region,region,742,842
+783,cNMP-binding domain,Region,region,742,842
+784,cNMP-binding domain,Region,region,742,842
+785,cNMP-binding domain,Region,region,742,842
+786,cNMP-binding domain,Region,region,742,842
+787,cNMP-binding domain,Region,region,742,842
+788,cNMP-binding domain,Region,region,742,842
+789,cNMP-binding domain,Region,region,742,842
+790,cNMP-binding domain,Region,region,742,842
+791,cNMP-binding domain,Region,region,742,842
+792,cNMP-binding domain,Region,region,742,842
+793,cNMP-binding domain,Region,region,742,842
+794,cNMP-binding domain,Region,region,742,842
+795,cNMP-binding domain,Region,region,742,842
+796,cNMP-binding domain,Region,region,742,842
+797,cNMP-binding domain,Region,region,742,842
+798,cNMP-binding domain,Region,region,742,842
+799,cNMP-binding domain,Region,region,742,842
+800,cNMP-binding domain,Region,region,742,842
+801,cNMP-binding domain,Region,region,742,842
+802,cNMP-binding domain,Region,region,742,842
+803,cNMP-binding domain,Region,region,742,842
+804,cNMP-binding domain,Region,region,742,842
+805,cNMP-binding domain,Region,region,742,842
+806,cNMP-binding domain,Region,region,742,842
+807,cNMP-binding domain,Region,region,742,842
+808,cNMP-binding domain,Region,region,742,842
+809,cNMP-binding domain,Region,region,742,842
+810,cNMP-binding domain,Region,region,742,842
+811,cNMP-binding domain,Region,region,742,842
+812,cNMP-binding domain,Region,region,742,842
+813,cNMP-binding domain,Region,region,742,842
+814,cNMP-binding domain,Region,region,742,842
+815,cNMP-binding domain,Region,region,742,842
+816,cNMP-binding domain,Region,region,742,842
+817,cNMP-binding domain,Region,region,742,842
+818,cNMP-binding domain,Region,region,742,842
+819,cNMP-binding domain,Region,region,742,842
+820,cNMP-binding domain,Region,region,742,842
+821,cNMP-binding domain,Region,region,742,842
+822,cNMP-binding domain,Region,region,742,842
+823,cNMP-binding domain,Region,region,742,842
+824,cNMP-binding domain,Region,region,742,842
+825,cNMP-binding domain,Region,region,742,842
+826,cNMP-binding domain,Region,region,742,842
+827,cNMP-binding domain,Region,region,742,842
+828,cNMP-binding domain,Region,region,742,842
+829,cNMP-binding domain,Region,region,742,842
+830,cNMP-binding domain,Region,region,742,842
+831,cNMP-binding domain,Region,region,742,842
+832,cNMP-binding domain,Region,region,742,842
+833,cNMP-binding domain,Region,region,742,842
+834,cNMP-binding domain,Region,region,742,842
+835,cNMP-binding domain,Region,region,742,842
+836,cNMP-binding domain,Region,region,742,842
+837,cNMP-binding domain,Region,region,742,842
+838,cNMP-binding domain,Region,region,742,842
+839,cNMP-binding domain,Region,region,742,842
+840,cNMP-binding domain,Region,region,742,842
+841,cNMP-binding domain,Region,region,742,842
+842,cNMP-binding domain,Region,region,742,842
+870,Disordered 2,Region,region,870,982
+871,Disordered 2,Region,region,870,982
+872,Disordered 2,Region,region,870,982
+873,Disordered 2,Region,region,870,982
+874,Disordered 2,Region,region,870,982
+875,Disordered 2,Region,region,870,982
+876,Disordered 2,Region,region,870,982
+877,Disordered 2,Region,region,870,982
+878,Disordered 2,Region,region,870,982
+879,Disordered 2,Region,region,870,982
+880,Disordered 2,Region,region,870,982
+881,Disordered 2,Region,region,870,982
+882,Disordered 2,Region,region,870,982
+883,Disordered 2,Region,region,870,982
+884,Disordered 2,Region,region,870,982
+885,Disordered 2,Region,region,870,982
+886,Disordered 2,Region,region,870,982
+887,Disordered 2,Region,region,870,982
+888,Disordered 2,Region,region,870,982
+889,Disordered 2,Region,region,870,982
+890,Disordered 2,Region,region,870,982
+891,Disordered 2,Region,region,870,982
+892,Disordered 2,Region,region,870,982
+893,Disordered 2,Region,region,870,982
+894,Disordered 2,Region,region,870,982
+895,Disordered 2,Region,region,870,982
+896,Disordered 2,Region,region,870,982
+897,Disordered 2,Region,region,870,982
+898,Disordered 2,Region,region,870,982
+899,Disordered 2,Region,region,870,982
+900,Disordered 2,Region,region,870,982
+901,Disordered 2,Region,region,870,982
+902,Disordered 2,Region,region,870,982
+903,Disordered 2,Region,region,870,982
+904,Disordered 2,Region,region,870,982
+905,Disordered 2,Region,region,870,982
+906,Disordered 2,Region,region,870,982
+907,Disordered 2,Region,region,870,982
+908,Disordered 2,Region,region,870,982
+909,Disordered 2,Region,region,870,982
+910,Disordered 2,Region,region,870,982
+911,Disordered 2,Region,region,870,982
+912,Disordered 2,Region,region,870,982
+913,Disordered 2,Region,region,870,982
+914,Disordered 2,Region,region,870,982
+915,Disordered 2,Region,region,870,982
+916,Disordered 2,Region,region,870,982
+917,Disordered 2,Region,region,870,982
+918,Disordered 2,Region,region,870,982
+919,Disordered 2,Region,region,870,982
+920,Disordered 2,Region,region,870,982
+921,Disordered 2,Region,region,870,982
+922,Disordered 2,Region,region,870,982
+923,Disordered 2,Region,region,870,982
+924,Disordered 2,Region,region,870,982
+925,Disordered 2,Region,region,870,982
+926,Disordered 2,Region,region,870,982
+927,Disordered 2,Region,region,870,982
+928,Disordered 2,Region,region,870,982
+929,Disordered 2,Region,region,870,982
+930,Disordered 2,Region,region,870,982
+931,Disordered 2,Region,region,870,982
+932,Disordered 2,Region,region,870,982
+933,Disordered 2,Region,region,870,982
+934,Disordered 2,Region,region,870,982
+935,Disordered 2,Region,region,870,982
+936,Disordered 2,Region,region,870,982
+937,Disordered 2,Region,region,870,982
+938,Disordered 2,Region,region,870,982
+939,Disordered 2,Region,region,870,982
+940,Disordered 2,Region,region,870,982
+941,Disordered 2,Region,region,870,982
+942,Disordered 2,Region,region,870,982
+943,Disordered 2,Region,region,870,982
+944,Disordered 2,Region,region,870,982
+945,Disordered 2,Region,region,870,982
+946,Disordered 2,Region,region,870,982
+947,Disordered 2,Region,region,870,982
+948,Disordered 2,Region,region,870,982
+949,Disordered 2,Region,region,870,982
+950,Disordered 2,Region,region,870,982
+951,Disordered 2,Region,region,870,982
+952,Disordered 2,Region,region,870,982
+953,Disordered 2,Region,region,870,982
+954,Disordered 2,Region,region,870,982
+955,Disordered 2,Region,region,870,982
+956,Disordered 2,Region,region,870,982
+957,Disordered 2,Region,region,870,982
+958,Disordered 2,Region,region,870,982
+959,Disordered 2,Region,region,870,982
+960,Disordered 2,Region,region,870,982
+961,Disordered 2,Region,region,870,982
+962,Disordered 2,Region,region,870,982
+963,Disordered 2,Region,region,870,982
+964,Disordered 2,Region,region,870,982
+965,Disordered 2,Region,region,870,982
+966,Disordered 2,Region,region,870,982
+967,Disordered 2,Region,region,870,982
+968,Disordered 2,Region,region,870,982
+969,Disordered 2,Region,region,870,982
+970,Disordered 2,Region,region,870,982
+971,Disordered 2,Region,region,870,982
+972,Disordered 2,Region,region,870,982
+973,Disordered 2,Region,region,870,982
+974,Disordered 2,Region,region,870,982
+975,Disordered 2,Region,region,870,982
+976,Disordered 2,Region,region,870,982
+977,Disordered 2,Region,region,870,982
+978,Disordered 2,Region,region,870,982
+979,Disordered 2,Region,region,870,982
+980,Disordered 2,Region,region,870,982
+981,Disordered 2,Region,region,870,982
+982,Disordered 2,Region,region,870,982
+1015,Disordered 3,Region,region,1015,1038
+1016,Disordered 3,Region,region,1015,1038
+1017,Disordered 3,Region,region,1015,1038
+1018,Disordered 3,Region,region,1015,1038
+1019,Disordered 3,Region,region,1015,1038
+1020,Disordered 3,Region,region,1015,1038
+1021,Disordered 3,Region,region,1015,1038
+1022,Disordered 3,Region,region,1015,1038
+1023,Disordered 3,Region,region,1015,1038
+1024,Disordered 3,Region,region,1015,1038
+1025,Disordered 3,Region,region,1015,1038
+1026,Disordered 3,Region,region,1015,1038
+1027,Disordered 3,Region,region,1015,1038
+1028,Disordered 3,Region,region,1015,1038
+1029,Disordered 3,Region,region,1015,1038
+1030,Disordered 3,Region,region,1015,1038
+1031,Disordered 3,Region,region,1015,1038
+1032,Disordered 3,Region,region,1015,1038
+1033,Disordered 3,Region,region,1015,1038
+1034,Disordered 3,Region,region,1015,1038
+1035,Disordered 3,Region,region,1015,1038
+1036,Disordered 3,Region,region,1015,1038
+1037,Disordered 3,Region,region,1015,1038
+1038,Disordered 3,Region,region,1015,1038
+1119,Disordered 4,Region,region,1119,1159
+1120,Disordered 4,Region,region,1119,1159
+1121,Disordered 4,Region,region,1119,1159
+1122,Disordered 4,Region,region,1119,1159
+1123,Disordered 4,Region,region,1119,1159
+1124,Disordered 4,Region,region,1119,1159
+1125,Disordered 4,Region,region,1119,1159
+1126,Disordered 4,Region,region,1119,1159
+1127,Disordered 4,Region,region,1119,1159
+1128,Disordered 4,Region,region,1119,1159
+1129,Disordered 4,Region,region,1119,1159
+1130,Disordered 4,Region,region,1119,1159
+1131,Disordered 4,Region,region,1119,1159
+1132,Disordered 4,Region,region,1119,1159
+1133,Disordered 4,Region,region,1119,1159
+1134,Disordered 4,Region,region,1119,1159
+1135,Disordered 4,Region,region,1119,1159
+1136,Disordered 4,Region,region,1119,1159
+1137,Disordered 4,Region,region,1119,1159
+1138,Disordered 4,Region,region,1119,1159
+1139,Disordered 4,Region,region,1119,1159
+1140,Disordered 4,Region,region,1119,1159
+1141,Disordered 4,Region,region,1119,1159
+1142,Disordered 4,Region,region,1119,1159
+1143,Disordered 4,Region,region,1119,1159
+1144,Disordered 4,Region,region,1119,1159
+1145,Disordered 4,Region,region,1119,1159
+1146,Disordered 4,Region,region,1119,1159
+1147,Disordered 4,Region,region,1119,1159
+1148,Disordered 4,Region,region,1119,1159
+1149,Disordered 4,Region,region,1119,1159
+1150,Disordered 4,Region,region,1119,1159
+1151,Disordered 4,Region,region,1119,1159
+1152,Disordered 4,Region,region,1119,1159
+1153,Disordered 4,Region,region,1119,1159
+1154,Disordered 4,Region,region,1119,1159
+1155,Disordered 4,Region,region,1119,1159
+1156,Disordered 4,Region,region,1119,1159
+1157,Disordered 4,Region,region,1119,1159
+1158,Disordered 4,Region,region,1119,1159
+1159,Disordered 4,Region,region,1119,1159
+1,Cytoplasmic 1,Topological domain,topology,1,403
+2,Cytoplasmic 1,Topological domain,topology,1,403
+3,Cytoplasmic 1,Topological domain,topology,1,403
+4,Cytoplasmic 1,Topological domain,topology,1,403
+5,Cytoplasmic 1,Topological domain,topology,1,403
+6,Cytoplasmic 1,Topological domain,topology,1,403
+7,Cytoplasmic 1,Topological domain,topology,1,403
+8,Cytoplasmic 1,Topological domain,topology,1,403
+9,Cytoplasmic 1,Topological domain,topology,1,403
+10,Cytoplasmic 1,Topological domain,topology,1,403
+11,Cytoplasmic 1,Topological domain,topology,1,403
+12,Cytoplasmic 1,Topological domain,topology,1,403
+13,Cytoplasmic 1,Topological domain,topology,1,403
+14,Cytoplasmic 1,Topological domain,topology,1,403
+15,Cytoplasmic 1,Topological domain,topology,1,403
+16,Cytoplasmic 1,Topological domain,topology,1,403
+17,Cytoplasmic 1,Topological domain,topology,1,403
+18,Cytoplasmic 1,Topological domain,topology,1,403
+19,Cytoplasmic 1,Topological domain,topology,1,403
+20,Cytoplasmic 1,Topological domain,topology,1,403
+21,Cytoplasmic 1,Topological domain,topology,1,403
+22,Cytoplasmic 1,Topological domain,topology,1,403
+23,Cytoplasmic 1,Topological domain,topology,1,403
+24,Cytoplasmic 1,Topological domain,topology,1,403
+25,Cytoplasmic 1,Topological domain,topology,1,403
+26,Cytoplasmic 1,Topological domain,topology,1,403
+27,Cytoplasmic 1,Topological domain,topology,1,403
+28,Cytoplasmic 1,Topological domain,topology,1,403
+29,Cytoplasmic 1,Topological domain,topology,1,403
+30,Cytoplasmic 1,Topological domain,topology,1,403
+31,Cytoplasmic 1,Topological domain,topology,1,403
+32,Cytoplasmic 1,Topological domain,topology,1,403
+33,Cytoplasmic 1,Topological domain,topology,1,403
+34,Cytoplasmic 1,Topological domain,topology,1,403
+35,Cytoplasmic 1,Topological domain,topology,1,403
+36,Cytoplasmic 1,Topological domain,topology,1,403
+37,Cytoplasmic 1,Topological domain,topology,1,403
+38,Cytoplasmic 1,Topological domain,topology,1,403
+39,Cytoplasmic 1,Topological domain,topology,1,403
+40,Cytoplasmic 1,Topological domain,topology,1,403
+41,Cytoplasmic 1,Topological domain,topology,1,403
+42,Cytoplasmic 1,Topological domain,topology,1,403
+43,Cytoplasmic 1,Topological domain,topology,1,403
+44,Cytoplasmic 1,Topological domain,topology,1,403
+45,Cytoplasmic 1,Topological domain,topology,1,403
+46,Cytoplasmic 1,Topological domain,topology,1,403
+47,Cytoplasmic 1,Topological domain,topology,1,403
+48,Cytoplasmic 1,Topological domain,topology,1,403
+49,Cytoplasmic 1,Topological domain,topology,1,403
+50,Cytoplasmic 1,Topological domain,topology,1,403
+51,Cytoplasmic 1,Topological domain,topology,1,403
+52,Cytoplasmic 1,Topological domain,topology,1,403
+53,Cytoplasmic 1,Topological domain,topology,1,403
+54,Cytoplasmic 1,Topological domain,topology,1,403
+55,Cytoplasmic 1,Topological domain,topology,1,403
+56,Cytoplasmic 1,Topological domain,topology,1,403
+57,Cytoplasmic 1,Topological domain,topology,1,403
+58,Cytoplasmic 1,Topological domain,topology,1,403
+59,Cytoplasmic 1,Topological domain,topology,1,403
+60,Cytoplasmic 1,Topological domain,topology,1,403
+61,Cytoplasmic 1,Topological domain,topology,1,403
+62,Cytoplasmic 1,Topological domain,topology,1,403
+63,Cytoplasmic 1,Topological domain,topology,1,403
+64,Cytoplasmic 1,Topological domain,topology,1,403
+65,Cytoplasmic 1,Topological domain,topology,1,403
+66,Cytoplasmic 1,Topological domain,topology,1,403
+67,Cytoplasmic 1,Topological domain,topology,1,403
+68,Cytoplasmic 1,Topological domain,topology,1,403
+69,Cytoplasmic 1,Topological domain,topology,1,403
+70,Cytoplasmic 1,Topological domain,topology,1,403
+71,Cytoplasmic 1,Topological domain,topology,1,403
+72,Cytoplasmic 1,Topological domain,topology,1,403
+73,Cytoplasmic 1,Topological domain,topology,1,403
+74,Cytoplasmic 1,Topological domain,topology,1,403
+75,Cytoplasmic 1,Topological domain,topology,1,403
+76,Cytoplasmic 1,Topological domain,topology,1,403
+77,Cytoplasmic 1,Topological domain,topology,1,403
+78,Cytoplasmic 1,Topological domain,topology,1,403
+79,Cytoplasmic 1,Topological domain,topology,1,403
+80,Cytoplasmic 1,Topological domain,topology,1,403
+81,Cytoplasmic 1,Topological domain,topology,1,403
+82,Cytoplasmic 1,Topological domain,topology,1,403
+83,Cytoplasmic 1,Topological domain,topology,1,403
+84,Cytoplasmic 1,Topological domain,topology,1,403
+85,Cytoplasmic 1,Topological domain,topology,1,403
+86,Cytoplasmic 1,Topological domain,topology,1,403
+87,Cytoplasmic 1,Topological domain,topology,1,403
+88,Cytoplasmic 1,Topological domain,topology,1,403
+89,Cytoplasmic 1,Topological domain,topology,1,403
+90,Cytoplasmic 1,Topological domain,topology,1,403
+91,Cytoplasmic 1,Topological domain,topology,1,403
+92,Cytoplasmic 1,Topological domain,topology,1,403
+93,Cytoplasmic 1,Topological domain,topology,1,403
+94,Cytoplasmic 1,Topological domain,topology,1,403
+95,Cytoplasmic 1,Topological domain,topology,1,403
+96,Cytoplasmic 1,Topological domain,topology,1,403
+97,Cytoplasmic 1,Topological domain,topology,1,403
+98,Cytoplasmic 1,Topological domain,topology,1,403
+99,Cytoplasmic 1,Topological domain,topology,1,403
+100,Cytoplasmic 1,Topological domain,topology,1,403
+101,Cytoplasmic 1,Topological domain,topology,1,403
+102,Cytoplasmic 1,Topological domain,topology,1,403
+103,Cytoplasmic 1,Topological domain,topology,1,403
+104,Cytoplasmic 1,Topological domain,topology,1,403
+105,Cytoplasmic 1,Topological domain,topology,1,403
+106,Cytoplasmic 1,Topological domain,topology,1,403
+107,Cytoplasmic 1,Topological domain,topology,1,403
+108,Cytoplasmic 1,Topological domain,topology,1,403
+109,Cytoplasmic 1,Topological domain,topology,1,403
+110,Cytoplasmic 1,Topological domain,topology,1,403
+111,Cytoplasmic 1,Topological domain,topology,1,403
+112,Cytoplasmic 1,Topological domain,topology,1,403
+113,Cytoplasmic 1,Topological domain,topology,1,403
+114,Cytoplasmic 1,Topological domain,topology,1,403
+115,Cytoplasmic 1,Topological domain,topology,1,403
+116,Cytoplasmic 1,Topological domain,topology,1,403
+117,Cytoplasmic 1,Topological domain,topology,1,403
+118,Cytoplasmic 1,Topological domain,topology,1,403
+119,Cytoplasmic 1,Topological domain,topology,1,403
+120,Cytoplasmic 1,Topological domain,topology,1,403
+121,Cytoplasmic 1,Topological domain,topology,1,403
+122,Cytoplasmic 1,Topological domain,topology,1,403
+123,Cytoplasmic 1,Topological domain,topology,1,403
+124,Cytoplasmic 1,Topological domain,topology,1,403
+125,Cytoplasmic 1,Topological domain,topology,1,403
+126,Cytoplasmic 1,Topological domain,topology,1,403
+127,Cytoplasmic 1,Topological domain,topology,1,403
+128,Cytoplasmic 1,Topological domain,topology,1,403
+129,Cytoplasmic 1,Topological domain,topology,1,403
+130,Cytoplasmic 1,Topological domain,topology,1,403
+131,Cytoplasmic 1,Topological domain,topology,1,403
+132,Cytoplasmic 1,Topological domain,topology,1,403
+133,Cytoplasmic 1,Topological domain,topology,1,403
+134,Cytoplasmic 1,Topological domain,topology,1,403
+135,Cytoplasmic 1,Topological domain,topology,1,403
+136,Cytoplasmic 1,Topological domain,topology,1,403
+137,Cytoplasmic 1,Topological domain,topology,1,403
+138,Cytoplasmic 1,Topological domain,topology,1,403
+139,Cytoplasmic 1,Topological domain,topology,1,403
+140,Cytoplasmic 1,Topological domain,topology,1,403
+141,Cytoplasmic 1,Topological domain,topology,1,403
+142,Cytoplasmic 1,Topological domain,topology,1,403
+143,Cytoplasmic 1,Topological domain,topology,1,403
+144,Cytoplasmic 1,Topological domain,topology,1,403
+145,Cytoplasmic 1,Topological domain,topology,1,403
+146,Cytoplasmic 1,Topological domain,topology,1,403
+147,Cytoplasmic 1,Topological domain,topology,1,403
+148,Cytoplasmic 1,Topological domain,topology,1,403
+149,Cytoplasmic 1,Topological domain,topology,1,403
+150,Cytoplasmic 1,Topological domain,topology,1,403
+151,Cytoplasmic 1,Topological domain,topology,1,403
+152,Cytoplasmic 1,Topological domain,topology,1,403
+153,Cytoplasmic 1,Topological domain,topology,1,403
+154,Cytoplasmic 1,Topological domain,topology,1,403
+155,Cytoplasmic 1,Topological domain,topology,1,403
+156,Cytoplasmic 1,Topological domain,topology,1,403
+157,Cytoplasmic 1,Topological domain,topology,1,403
+158,Cytoplasmic 1,Topological domain,topology,1,403
+159,Cytoplasmic 1,Topological domain,topology,1,403
+160,Cytoplasmic 1,Topological domain,topology,1,403
+161,Cytoplasmic 1,Topological domain,topology,1,403
+162,Cytoplasmic 1,Topological domain,topology,1,403
+163,Cytoplasmic 1,Topological domain,topology,1,403
+164,Cytoplasmic 1,Topological domain,topology,1,403
+165,Cytoplasmic 1,Topological domain,topology,1,403
+166,Cytoplasmic 1,Topological domain,topology,1,403
+167,Cytoplasmic 1,Topological domain,topology,1,403
+168,Cytoplasmic 1,Topological domain,topology,1,403
+169,Cytoplasmic 1,Topological domain,topology,1,403
+170,Cytoplasmic 1,Topological domain,topology,1,403
+171,Cytoplasmic 1,Topological domain,topology,1,403
+172,Cytoplasmic 1,Topological domain,topology,1,403
+173,Cytoplasmic 1,Topological domain,topology,1,403
+174,Cytoplasmic 1,Topological domain,topology,1,403
+175,Cytoplasmic 1,Topological domain,topology,1,403
+176,Cytoplasmic 1,Topological domain,topology,1,403
+177,Cytoplasmic 1,Topological domain,topology,1,403
+178,Cytoplasmic 1,Topological domain,topology,1,403
+179,Cytoplasmic 1,Topological domain,topology,1,403
+180,Cytoplasmic 1,Topological domain,topology,1,403
+181,Cytoplasmic 1,Topological domain,topology,1,403
+182,Cytoplasmic 1,Topological domain,topology,1,403
+183,Cytoplasmic 1,Topological domain,topology,1,403
+184,Cytoplasmic 1,Topological domain,topology,1,403
+185,Cytoplasmic 1,Topological domain,topology,1,403
+186,Cytoplasmic 1,Topological domain,topology,1,403
+187,Cytoplasmic 1,Topological domain,topology,1,403
+188,Cytoplasmic 1,Topological domain,topology,1,403
+189,Cytoplasmic 1,Topological domain,topology,1,403
+190,Cytoplasmic 1,Topological domain,topology,1,403
+191,Cytoplasmic 1,Topological domain,topology,1,403
+192,Cytoplasmic 1,Topological domain,topology,1,403
+193,Cytoplasmic 1,Topological domain,topology,1,403
+194,Cytoplasmic 1,Topological domain,topology,1,403
+195,Cytoplasmic 1,Topological domain,topology,1,403
+196,Cytoplasmic 1,Topological domain,topology,1,403
+197,Cytoplasmic 1,Topological domain,topology,1,403
+198,Cytoplasmic 1,Topological domain,topology,1,403
+199,Cytoplasmic 1,Topological domain,topology,1,403
+200,Cytoplasmic 1,Topological domain,topology,1,403
+201,Cytoplasmic 1,Topological domain,topology,1,403
+202,Cytoplasmic 1,Topological domain,topology,1,403
+203,Cytoplasmic 1,Topological domain,topology,1,403
+204,Cytoplasmic 1,Topological domain,topology,1,403
+205,Cytoplasmic 1,Topological domain,topology,1,403
+206,Cytoplasmic 1,Topological domain,topology,1,403
+207,Cytoplasmic 1,Topological domain,topology,1,403
+208,Cytoplasmic 1,Topological domain,topology,1,403
+209,Cytoplasmic 1,Topological domain,topology,1,403
+210,Cytoplasmic 1,Topological domain,topology,1,403
+211,Cytoplasmic 1,Topological domain,topology,1,403
+212,Cytoplasmic 1,Topological domain,topology,1,403
+213,Cytoplasmic 1,Topological domain,topology,1,403
+214,Cytoplasmic 1,Topological domain,topology,1,403
+215,Cytoplasmic 1,Topological domain,topology,1,403
+216,Cytoplasmic 1,Topological domain,topology,1,403
+217,Cytoplasmic 1,Topological domain,topology,1,403
+218,Cytoplasmic 1,Topological domain,topology,1,403
+219,Cytoplasmic 1,Topological domain,topology,1,403
+220,Cytoplasmic 1,Topological domain,topology,1,403
+221,Cytoplasmic 1,Topological domain,topology,1,403
+222,Cytoplasmic 1,Topological domain,topology,1,403
+223,Cytoplasmic 1,Topological domain,topology,1,403
+224,Cytoplasmic 1,Topological domain,topology,1,403
+225,Cytoplasmic 1,Topological domain,topology,1,403
+226,Cytoplasmic 1,Topological domain,topology,1,403
+227,Cytoplasmic 1,Topological domain,topology,1,403
+228,Cytoplasmic 1,Topological domain,topology,1,403
+229,Cytoplasmic 1,Topological domain,topology,1,403
+230,Cytoplasmic 1,Topological domain,topology,1,403
+231,Cytoplasmic 1,Topological domain,topology,1,403
+232,Cytoplasmic 1,Topological domain,topology,1,403
+233,Cytoplasmic 1,Topological domain,topology,1,403
+234,Cytoplasmic 1,Topological domain,topology,1,403
+235,Cytoplasmic 1,Topological domain,topology,1,403
+236,Cytoplasmic 1,Topological domain,topology,1,403
+237,Cytoplasmic 1,Topological domain,topology,1,403
+238,Cytoplasmic 1,Topological domain,topology,1,403
+239,Cytoplasmic 1,Topological domain,topology,1,403
+240,Cytoplasmic 1,Topological domain,topology,1,403
+241,Cytoplasmic 1,Topological domain,topology,1,403
+242,Cytoplasmic 1,Topological domain,topology,1,403
+243,Cytoplasmic 1,Topological domain,topology,1,403
+244,Cytoplasmic 1,Topological domain,topology,1,403
+245,Cytoplasmic 1,Topological domain,topology,1,403
+246,Cytoplasmic 1,Topological domain,topology,1,403
+247,Cytoplasmic 1,Topological domain,topology,1,403
+248,Cytoplasmic 1,Topological domain,topology,1,403
+249,Cytoplasmic 1,Topological domain,topology,1,403
+250,Cytoplasmic 1,Topological domain,topology,1,403
+251,Cytoplasmic 1,Topological domain,topology,1,403
+252,Cytoplasmic 1,Topological domain,topology,1,403
+253,Cytoplasmic 1,Topological domain,topology,1,403
+254,Cytoplasmic 1,Topological domain,topology,1,403
+255,Cytoplasmic 1,Topological domain,topology,1,403
+256,Cytoplasmic 1,Topological domain,topology,1,403
+257,Cytoplasmic 1,Topological domain,topology,1,403
+258,Cytoplasmic 1,Topological domain,topology,1,403
+259,Cytoplasmic 1,Topological domain,topology,1,403
+260,Cytoplasmic 1,Topological domain,topology,1,403
+261,Cytoplasmic 1,Topological domain,topology,1,403
+262,Cytoplasmic 1,Topological domain,topology,1,403
+263,Cytoplasmic 1,Topological domain,topology,1,403
+264,Cytoplasmic 1,Topological domain,topology,1,403
+265,Cytoplasmic 1,Topological domain,topology,1,403
+266,Cytoplasmic 1,Topological domain,topology,1,403
+267,Cytoplasmic 1,Topological domain,topology,1,403
+268,Cytoplasmic 1,Topological domain,topology,1,403
+269,Cytoplasmic 1,Topological domain,topology,1,403
+270,Cytoplasmic 1,Topological domain,topology,1,403
+271,Cytoplasmic 1,Topological domain,topology,1,403
+272,Cytoplasmic 1,Topological domain,topology,1,403
+273,Cytoplasmic 1,Topological domain,topology,1,403
+274,Cytoplasmic 1,Topological domain,topology,1,403
+275,Cytoplasmic 1,Topological domain,topology,1,403
+276,Cytoplasmic 1,Topological domain,topology,1,403
+277,Cytoplasmic 1,Topological domain,topology,1,403
+278,Cytoplasmic 1,Topological domain,topology,1,403
+279,Cytoplasmic 1,Topological domain,topology,1,403
+280,Cytoplasmic 1,Topological domain,topology,1,403
+281,Cytoplasmic 1,Topological domain,topology,1,403
+282,Cytoplasmic 1,Topological domain,topology,1,403
+283,Cytoplasmic 1,Topological domain,topology,1,403
+284,Cytoplasmic 1,Topological domain,topology,1,403
+285,Cytoplasmic 1,Topological domain,topology,1,403
+286,Cytoplasmic 1,Topological domain,topology,1,403
+287,Cytoplasmic 1,Topological domain,topology,1,403
+288,Cytoplasmic 1,Topological domain,topology,1,403
+289,Cytoplasmic 1,Topological domain,topology,1,403
+290,Cytoplasmic 1,Topological domain,topology,1,403
+291,Cytoplasmic 1,Topological domain,topology,1,403
+292,Cytoplasmic 1,Topological domain,topology,1,403
+293,Cytoplasmic 1,Topological domain,topology,1,403
+294,Cytoplasmic 1,Topological domain,topology,1,403
+295,Cytoplasmic 1,Topological domain,topology,1,403
+296,Cytoplasmic 1,Topological domain,topology,1,403
+297,Cytoplasmic 1,Topological domain,topology,1,403
+298,Cytoplasmic 1,Topological domain,topology,1,403
+299,Cytoplasmic 1,Topological domain,topology,1,403
+300,Cytoplasmic 1,Topological domain,topology,1,403
+301,Cytoplasmic 1,Topological domain,topology,1,403
+302,Cytoplasmic 1,Topological domain,topology,1,403
+303,Cytoplasmic 1,Topological domain,topology,1,403
+304,Cytoplasmic 1,Topological domain,topology,1,403
+305,Cytoplasmic 1,Topological domain,topology,1,403
+306,Cytoplasmic 1,Topological domain,topology,1,403
+307,Cytoplasmic 1,Topological domain,topology,1,403
+308,Cytoplasmic 1,Topological domain,topology,1,403
+309,Cytoplasmic 1,Topological domain,topology,1,403
+310,Cytoplasmic 1,Topological domain,topology,1,403
+311,Cytoplasmic 1,Topological domain,topology,1,403
+312,Cytoplasmic 1,Topological domain,topology,1,403
+313,Cytoplasmic 1,Topological domain,topology,1,403
+314,Cytoplasmic 1,Topological domain,topology,1,403
+315,Cytoplasmic 1,Topological domain,topology,1,403
+316,Cytoplasmic 1,Topological domain,topology,1,403
+317,Cytoplasmic 1,Topological domain,topology,1,403
+318,Cytoplasmic 1,Topological domain,topology,1,403
+319,Cytoplasmic 1,Topological domain,topology,1,403
+320,Cytoplasmic 1,Topological domain,topology,1,403
+321,Cytoplasmic 1,Topological domain,topology,1,403
+322,Cytoplasmic 1,Topological domain,topology,1,403
+323,Cytoplasmic 1,Topological domain,topology,1,403
+324,Cytoplasmic 1,Topological domain,topology,1,403
+325,Cytoplasmic 1,Topological domain,topology,1,403
+326,Cytoplasmic 1,Topological domain,topology,1,403
+327,Cytoplasmic 1,Topological domain,topology,1,403
+328,Cytoplasmic 1,Topological domain,topology,1,403
+329,Cytoplasmic 1,Topological domain,topology,1,403
+330,Cytoplasmic 1,Topological domain,topology,1,403
+331,Cytoplasmic 1,Topological domain,topology,1,403
+332,Cytoplasmic 1,Topological domain,topology,1,403
+333,Cytoplasmic 1,Topological domain,topology,1,403
+334,Cytoplasmic 1,Topological domain,topology,1,403
+335,Cytoplasmic 1,Topological domain,topology,1,403
+336,Cytoplasmic 1,Topological domain,topology,1,403
+337,Cytoplasmic 1,Topological domain,topology,1,403
+338,Cytoplasmic 1,Topological domain,topology,1,403
+339,Cytoplasmic 1,Topological domain,topology,1,403
+340,Cytoplasmic 1,Topological domain,topology,1,403
+341,Cytoplasmic 1,Topological domain,topology,1,403
+342,Cytoplasmic 1,Topological domain,topology,1,403
+343,Cytoplasmic 1,Topological domain,topology,1,403
+344,Cytoplasmic 1,Topological domain,topology,1,403
+345,Cytoplasmic 1,Topological domain,topology,1,403
+346,Cytoplasmic 1,Topological domain,topology,1,403
+347,Cytoplasmic 1,Topological domain,topology,1,403
+348,Cytoplasmic 1,Topological domain,topology,1,403
+349,Cytoplasmic 1,Topological domain,topology,1,403
+350,Cytoplasmic 1,Topological domain,topology,1,403
+351,Cytoplasmic 1,Topological domain,topology,1,403
+352,Cytoplasmic 1,Topological domain,topology,1,403
+353,Cytoplasmic 1,Topological domain,topology,1,403
+354,Cytoplasmic 1,Topological domain,topology,1,403
+355,Cytoplasmic 1,Topological domain,topology,1,403
+356,Cytoplasmic 1,Topological domain,topology,1,403
+357,Cytoplasmic 1,Topological domain,topology,1,403
+358,Cytoplasmic 1,Topological domain,topology,1,403
+359,Cytoplasmic 1,Topological domain,topology,1,403
+360,Cytoplasmic 1,Topological domain,topology,1,403
+361,Cytoplasmic 1,Topological domain,topology,1,403
+362,Cytoplasmic 1,Topological domain,topology,1,403
+363,Cytoplasmic 1,Topological domain,topology,1,403
+364,Cytoplasmic 1,Topological domain,topology,1,403
+365,Cytoplasmic 1,Topological domain,topology,1,403
+366,Cytoplasmic 1,Topological domain,topology,1,403
+367,Cytoplasmic 1,Topological domain,topology,1,403
+368,Cytoplasmic 1,Topological domain,topology,1,403
+369,Cytoplasmic 1,Topological domain,topology,1,403
+370,Cytoplasmic 1,Topological domain,topology,1,403
+371,Cytoplasmic 1,Topological domain,topology,1,403
+372,Cytoplasmic 1,Topological domain,topology,1,403
+373,Cytoplasmic 1,Topological domain,topology,1,403
+374,Cytoplasmic 1,Topological domain,topology,1,403
+375,Cytoplasmic 1,Topological domain,topology,1,403
+376,Cytoplasmic 1,Topological domain,topology,1,403
+377,Cytoplasmic 1,Topological domain,topology,1,403
+378,Cytoplasmic 1,Topological domain,topology,1,403
+379,Cytoplasmic 1,Topological domain,topology,1,403
+380,Cytoplasmic 1,Topological domain,topology,1,403
+381,Cytoplasmic 1,Topological domain,topology,1,403
+382,Cytoplasmic 1,Topological domain,topology,1,403
+383,Cytoplasmic 1,Topological domain,topology,1,403
+384,Cytoplasmic 1,Topological domain,topology,1,403
+385,Cytoplasmic 1,Topological domain,topology,1,403
+386,Cytoplasmic 1,Topological domain,topology,1,403
+387,Cytoplasmic 1,Topological domain,topology,1,403
+388,Cytoplasmic 1,Topological domain,topology,1,403
+389,Cytoplasmic 1,Topological domain,topology,1,403
+390,Cytoplasmic 1,Topological domain,topology,1,403
+391,Cytoplasmic 1,Topological domain,topology,1,403
+392,Cytoplasmic 1,Topological domain,topology,1,403
+393,Cytoplasmic 1,Topological domain,topology,1,403
+394,Cytoplasmic 1,Topological domain,topology,1,403
+395,Cytoplasmic 1,Topological domain,topology,1,403
+396,Cytoplasmic 1,Topological domain,topology,1,403
+397,Cytoplasmic 1,Topological domain,topology,1,403
+398,Cytoplasmic 1,Topological domain,topology,1,403
+399,Cytoplasmic 1,Topological domain,topology,1,403
+400,Cytoplasmic 1,Topological domain,topology,1,403
+401,Cytoplasmic 1,Topological domain,topology,1,403
+402,Cytoplasmic 1,Topological domain,topology,1,403
+403,Cytoplasmic 1,Topological domain,topology,1,403
+425,Extracellular 1,Topological domain,topology,425,450
+426,Extracellular 1,Topological domain,topology,425,450
+427,Extracellular 1,Topological domain,topology,425,450
+428,Extracellular 1,Topological domain,topology,425,450
+429,Extracellular 1,Topological domain,topology,425,450
+430,Extracellular 1,Topological domain,topology,425,450
+431,Extracellular 1,Topological domain,topology,425,450
+432,Extracellular 1,Topological domain,topology,425,450
+433,Extracellular 1,Topological domain,topology,425,450
+434,Extracellular 1,Topological domain,topology,425,450
+435,Extracellular 1,Topological domain,topology,425,450
+436,Extracellular 1,Topological domain,topology,425,450
+437,Extracellular 1,Topological domain,topology,425,450
+438,Extracellular 1,Topological domain,topology,425,450
+439,Extracellular 1,Topological domain,topology,425,450
+440,Extracellular 1,Topological domain,topology,425,450
+441,Extracellular 1,Topological domain,topology,425,450
+442,Extracellular 1,Topological domain,topology,425,450
+443,Extracellular 1,Topological domain,topology,425,450
+444,Extracellular 1,Topological domain,topology,425,450
+445,Extracellular 1,Topological domain,topology,425,450
+446,Extracellular 1,Topological domain,topology,425,450
+447,Extracellular 1,Topological domain,topology,425,450
+448,Extracellular 1,Topological domain,topology,425,450
+449,Extracellular 1,Topological domain,topology,425,450
+450,Extracellular 1,Topological domain,topology,425,450
+472,Cytoplasmic 2,Topological domain,topology,472,495
+473,Cytoplasmic 2,Topological domain,topology,472,495
+474,Cytoplasmic 2,Topological domain,topology,472,495
+475,Cytoplasmic 2,Topological domain,topology,472,495
+476,Cytoplasmic 2,Topological domain,topology,472,495
+477,Cytoplasmic 2,Topological domain,topology,472,495
+478,Cytoplasmic 2,Topological domain,topology,472,495
+479,Cytoplasmic 2,Topological domain,topology,472,495
+480,Cytoplasmic 2,Topological domain,topology,472,495
+481,Cytoplasmic 2,Topological domain,topology,472,495
+482,Cytoplasmic 2,Topological domain,topology,472,495
+483,Cytoplasmic 2,Topological domain,topology,472,495
+484,Cytoplasmic 2,Topological domain,topology,472,495
+485,Cytoplasmic 2,Topological domain,topology,472,495
+486,Cytoplasmic 2,Topological domain,topology,472,495
+487,Cytoplasmic 2,Topological domain,topology,472,495
+488,Cytoplasmic 2,Topological domain,topology,472,495
+489,Cytoplasmic 2,Topological domain,topology,472,495
+490,Cytoplasmic 2,Topological domain,topology,472,495
+491,Cytoplasmic 2,Topological domain,topology,472,495
+492,Cytoplasmic 2,Topological domain,topology,472,495
+493,Cytoplasmic 2,Topological domain,topology,472,495
+494,Cytoplasmic 2,Topological domain,topology,472,495
+495,Cytoplasmic 2,Topological domain,topology,472,495
+517,Extracellular 2,Topological domain,topology,517,520
+518,Extracellular 2,Topological domain,topology,517,520
+519,Extracellular 2,Topological domain,topology,517,520
+520,Extracellular 2,Topological domain,topology,517,520
+542,Cytoplasmic 3,Topological domain,topology,542,547
+543,Cytoplasmic 3,Topological domain,topology,542,547
+544,Cytoplasmic 3,Topological domain,topology,542,547
+545,Cytoplasmic 3,Topological domain,topology,542,547
+546,Cytoplasmic 3,Topological domain,topology,542,547
+547,Cytoplasmic 3,Topological domain,topology,542,547
+569,Extracellular 3,Topological domain,topology,569,611
+570,Extracellular 3,Topological domain,topology,569,611
+571,Extracellular 3,Topological domain,topology,569,611
+572,Extracellular 3,Topological domain,topology,569,611
+573,Extracellular 3,Topological domain,topology,569,611
+574,Extracellular 3,Topological domain,topology,569,611
+575,Extracellular 3,Topological domain,topology,569,611
+576,Extracellular 3,Topological domain,topology,569,611
+577,Extracellular 3,Topological domain,topology,569,611
+578,Extracellular 3,Topological domain,topology,569,611
+579,Extracellular 3,Topological domain,topology,569,611
+580,Extracellular 3,Topological domain,topology,569,611
+581,Extracellular 3,Topological domain,topology,569,611
+582,Extracellular 3,Topological domain,topology,569,611
+583,Extracellular 3,Topological domain,topology,569,611
+584,Extracellular 3,Topological domain,topology,569,611
+585,Extracellular 3,Topological domain,topology,569,611
+586,Extracellular 3,Topological domain,topology,569,611
+587,Extracellular 3,Topological domain,topology,569,611
+588,Extracellular 3,Topological domain,topology,569,611
+589,Extracellular 3,Topological domain,topology,569,611
+590,Extracellular 3,Topological domain,topology,569,611
+591,Extracellular 3,Topological domain,topology,569,611
+592,Extracellular 3,Topological domain,topology,569,611
+593,Extracellular 3,Topological domain,topology,569,611
+594,Extracellular 3,Topological domain,topology,569,611
+595,Extracellular 3,Topological domain,topology,569,611
+596,Extracellular 3,Topological domain,topology,569,611
+597,Extracellular 3,Topological domain,topology,569,611
+598,Extracellular 3,Topological domain,topology,569,611
+599,Extracellular 3,Topological domain,topology,569,611
+600,Extracellular 3,Topological domain,topology,569,611
+601,Extracellular 3,Topological domain,topology,569,611
+602,Extracellular 3,Topological domain,topology,569,611
+603,Extracellular 3,Topological domain,topology,569,611
+604,Extracellular 3,Topological domain,topology,569,611
+605,Extracellular 3,Topological domain,topology,569,611
+606,Extracellular 3,Topological domain,topology,569,611
+607,Extracellular 3,Topological domain,topology,569,611
+608,Extracellular 3,Topological domain,topology,569,611
+609,Extracellular 3,Topological domain,topology,569,611
+610,Extracellular 3,Topological domain,topology,569,611
+611,Extracellular 3,Topological domain,topology,569,611
+633,Extracellular 4,Topological domain,topology,633,638
+634,Extracellular 4,Topological domain,topology,633,638
+635,Extracellular 4,Topological domain,topology,633,638
+636,Extracellular 4,Topological domain,topology,633,638
+637,Extracellular 4,Topological domain,topology,633,638
+638,Extracellular 4,Topological domain,topology,633,638
+660,Cytoplasmic 4,Topological domain,topology,660,1159
+661,Cytoplasmic 4,Topological domain,topology,660,1159
+662,Cytoplasmic 4,Topological domain,topology,660,1159
+663,Cytoplasmic 4,Topological domain,topology,660,1159
+664,Cytoplasmic 4,Topological domain,topology,660,1159
+665,Cytoplasmic 4,Topological domain,topology,660,1159
+666,Cytoplasmic 4,Topological domain,topology,660,1159
+667,Cytoplasmic 4,Topological domain,topology,660,1159
+668,Cytoplasmic 4,Topological domain,topology,660,1159
+669,Cytoplasmic 4,Topological domain,topology,660,1159
+670,Cytoplasmic 4,Topological domain,topology,660,1159
+671,Cytoplasmic 4,Topological domain,topology,660,1159
+672,Cytoplasmic 4,Topological domain,topology,660,1159
+673,Cytoplasmic 4,Topological domain,topology,660,1159
+674,Cytoplasmic 4,Topological domain,topology,660,1159
+675,Cytoplasmic 4,Topological domain,topology,660,1159
+676,Cytoplasmic 4,Topological domain,topology,660,1159
+677,Cytoplasmic 4,Topological domain,topology,660,1159
+678,Cytoplasmic 4,Topological domain,topology,660,1159
+679,Cytoplasmic 4,Topological domain,topology,660,1159
+680,Cytoplasmic 4,Topological domain,topology,660,1159
+681,Cytoplasmic 4,Topological domain,topology,660,1159
+682,Cytoplasmic 4,Topological domain,topology,660,1159
+683,Cytoplasmic 4,Topological domain,topology,660,1159
+684,Cytoplasmic 4,Topological domain,topology,660,1159
+685,Cytoplasmic 4,Topological domain,topology,660,1159
+686,Cytoplasmic 4,Topological domain,topology,660,1159
+687,Cytoplasmic 4,Topological domain,topology,660,1159
+688,Cytoplasmic 4,Topological domain,topology,660,1159
+689,Cytoplasmic 4,Topological domain,topology,660,1159
+690,Cytoplasmic 4,Topological domain,topology,660,1159
+691,Cytoplasmic 4,Topological domain,topology,660,1159
+692,Cytoplasmic 4,Topological domain,topology,660,1159
+693,Cytoplasmic 4,Topological domain,topology,660,1159
+694,Cytoplasmic 4,Topological domain,topology,660,1159
+695,Cytoplasmic 4,Topological domain,topology,660,1159
+696,Cytoplasmic 4,Topological domain,topology,660,1159
+697,Cytoplasmic 4,Topological domain,topology,660,1159
+698,Cytoplasmic 4,Topological domain,topology,660,1159
+699,Cytoplasmic 4,Topological domain,topology,660,1159
+700,Cytoplasmic 4,Topological domain,topology,660,1159
+701,Cytoplasmic 4,Topological domain,topology,660,1159
+702,Cytoplasmic 4,Topological domain,topology,660,1159
+703,Cytoplasmic 4,Topological domain,topology,660,1159
+704,Cytoplasmic 4,Topological domain,topology,660,1159
+705,Cytoplasmic 4,Topological domain,topology,660,1159
+706,Cytoplasmic 4,Topological domain,topology,660,1159
+707,Cytoplasmic 4,Topological domain,topology,660,1159
+708,Cytoplasmic 4,Topological domain,topology,660,1159
+709,Cytoplasmic 4,Topological domain,topology,660,1159
+710,Cytoplasmic 4,Topological domain,topology,660,1159
+711,Cytoplasmic 4,Topological domain,topology,660,1159
+712,Cytoplasmic 4,Topological domain,topology,660,1159
+713,Cytoplasmic 4,Topological domain,topology,660,1159
+714,Cytoplasmic 4,Topological domain,topology,660,1159
+715,Cytoplasmic 4,Topological domain,topology,660,1159
+716,Cytoplasmic 4,Topological domain,topology,660,1159
+717,Cytoplasmic 4,Topological domain,topology,660,1159
+718,Cytoplasmic 4,Topological domain,topology,660,1159
+719,Cytoplasmic 4,Topological domain,topology,660,1159
+720,Cytoplasmic 4,Topological domain,topology,660,1159
+721,Cytoplasmic 4,Topological domain,topology,660,1159
+722,Cytoplasmic 4,Topological domain,topology,660,1159
+723,Cytoplasmic 4,Topological domain,topology,660,1159
+724,Cytoplasmic 4,Topological domain,topology,660,1159
+725,Cytoplasmic 4,Topological domain,topology,660,1159
+726,Cytoplasmic 4,Topological domain,topology,660,1159
+727,Cytoplasmic 4,Topological domain,topology,660,1159
+728,Cytoplasmic 4,Topological domain,topology,660,1159
+729,Cytoplasmic 4,Topological domain,topology,660,1159
+730,Cytoplasmic 4,Topological domain,topology,660,1159
+731,Cytoplasmic 4,Topological domain,topology,660,1159
+732,Cytoplasmic 4,Topological domain,topology,660,1159
+733,Cytoplasmic 4,Topological domain,topology,660,1159
+734,Cytoplasmic 4,Topological domain,topology,660,1159
+735,Cytoplasmic 4,Topological domain,topology,660,1159
+736,Cytoplasmic 4,Topological domain,topology,660,1159
+737,Cytoplasmic 4,Topological domain,topology,660,1159
+738,Cytoplasmic 4,Topological domain,topology,660,1159
+739,Cytoplasmic 4,Topological domain,topology,660,1159
+740,Cytoplasmic 4,Topological domain,topology,660,1159
+741,Cytoplasmic 4,Topological domain,topology,660,1159
+742,Cytoplasmic 4,Topological domain,topology,660,1159
+743,Cytoplasmic 4,Topological domain,topology,660,1159
+744,Cytoplasmic 4,Topological domain,topology,660,1159
+745,Cytoplasmic 4,Topological domain,topology,660,1159
+746,Cytoplasmic 4,Topological domain,topology,660,1159
+747,Cytoplasmic 4,Topological domain,topology,660,1159
+748,Cytoplasmic 4,Topological domain,topology,660,1159
+749,Cytoplasmic 4,Topological domain,topology,660,1159
+750,Cytoplasmic 4,Topological domain,topology,660,1159
+751,Cytoplasmic 4,Topological domain,topology,660,1159
+752,Cytoplasmic 4,Topological domain,topology,660,1159
+753,Cytoplasmic 4,Topological domain,topology,660,1159
+754,Cytoplasmic 4,Topological domain,topology,660,1159
+755,Cytoplasmic 4,Topological domain,topology,660,1159
+756,Cytoplasmic 4,Topological domain,topology,660,1159
+757,Cytoplasmic 4,Topological domain,topology,660,1159
+758,Cytoplasmic 4,Topological domain,topology,660,1159
+759,Cytoplasmic 4,Topological domain,topology,660,1159
+760,Cytoplasmic 4,Topological domain,topology,660,1159
+761,Cytoplasmic 4,Topological domain,topology,660,1159
+762,Cytoplasmic 4,Topological domain,topology,660,1159
+763,Cytoplasmic 4,Topological domain,topology,660,1159
+764,Cytoplasmic 4,Topological domain,topology,660,1159
+765,Cytoplasmic 4,Topological domain,topology,660,1159
+766,Cytoplasmic 4,Topological domain,topology,660,1159
+767,Cytoplasmic 4,Topological domain,topology,660,1159
+768,Cytoplasmic 4,Topological domain,topology,660,1159
+769,Cytoplasmic 4,Topological domain,topology,660,1159
+770,Cytoplasmic 4,Topological domain,topology,660,1159
+771,Cytoplasmic 4,Topological domain,topology,660,1159
+772,Cytoplasmic 4,Topological domain,topology,660,1159
+773,Cytoplasmic 4,Topological domain,topology,660,1159
+774,Cytoplasmic 4,Topological domain,topology,660,1159
+775,Cytoplasmic 4,Topological domain,topology,660,1159
+776,Cytoplasmic 4,Topological domain,topology,660,1159
+777,Cytoplasmic 4,Topological domain,topology,660,1159
+778,Cytoplasmic 4,Topological domain,topology,660,1159
+779,Cytoplasmic 4,Topological domain,topology,660,1159
+780,Cytoplasmic 4,Topological domain,topology,660,1159
+781,Cytoplasmic 4,Topological domain,topology,660,1159
+782,Cytoplasmic 4,Topological domain,topology,660,1159
+783,Cytoplasmic 4,Topological domain,topology,660,1159
+784,Cytoplasmic 4,Topological domain,topology,660,1159
+785,Cytoplasmic 4,Topological domain,topology,660,1159
+786,Cytoplasmic 4,Topological domain,topology,660,1159
+787,Cytoplasmic 4,Topological domain,topology,660,1159
+788,Cytoplasmic 4,Topological domain,topology,660,1159
+789,Cytoplasmic 4,Topological domain,topology,660,1159
+790,Cytoplasmic 4,Topological domain,topology,660,1159
+791,Cytoplasmic 4,Topological domain,topology,660,1159
+792,Cytoplasmic 4,Topological domain,topology,660,1159
+793,Cytoplasmic 4,Topological domain,topology,660,1159
+794,Cytoplasmic 4,Topological domain,topology,660,1159
+795,Cytoplasmic 4,Topological domain,topology,660,1159
+796,Cytoplasmic 4,Topological domain,topology,660,1159
+797,Cytoplasmic 4,Topological domain,topology,660,1159
+798,Cytoplasmic 4,Topological domain,topology,660,1159
+799,Cytoplasmic 4,Topological domain,topology,660,1159
+800,Cytoplasmic 4,Topological domain,topology,660,1159
+801,Cytoplasmic 4,Topological domain,topology,660,1159
+802,Cytoplasmic 4,Topological domain,topology,660,1159
+803,Cytoplasmic 4,Topological domain,topology,660,1159
+804,Cytoplasmic 4,Topological domain,topology,660,1159
+805,Cytoplasmic 4,Topological domain,topology,660,1159
+806,Cytoplasmic 4,Topological domain,topology,660,1159
+807,Cytoplasmic 4,Topological domain,topology,660,1159
+808,Cytoplasmic 4,Topological domain,topology,660,1159
+809,Cytoplasmic 4,Topological domain,topology,660,1159
+810,Cytoplasmic 4,Topological domain,topology,660,1159
+811,Cytoplasmic 4,Topological domain,topology,660,1159
+812,Cytoplasmic 4,Topological domain,topology,660,1159
+813,Cytoplasmic 4,Topological domain,topology,660,1159
+814,Cytoplasmic 4,Topological domain,topology,660,1159
+815,Cytoplasmic 4,Topological domain,topology,660,1159
+816,Cytoplasmic 4,Topological domain,topology,660,1159
+817,Cytoplasmic 4,Topological domain,topology,660,1159
+818,Cytoplasmic 4,Topological domain,topology,660,1159
+819,Cytoplasmic 4,Topological domain,topology,660,1159
+820,Cytoplasmic 4,Topological domain,topology,660,1159
+821,Cytoplasmic 4,Topological domain,topology,660,1159
+822,Cytoplasmic 4,Topological domain,topology,660,1159
+823,Cytoplasmic 4,Topological domain,topology,660,1159
+824,Cytoplasmic 4,Topological domain,topology,660,1159
+825,Cytoplasmic 4,Topological domain,topology,660,1159
+826,Cytoplasmic 4,Topological domain,topology,660,1159
+827,Cytoplasmic 4,Topological domain,topology,660,1159
+828,Cytoplasmic 4,Topological domain,topology,660,1159
+829,Cytoplasmic 4,Topological domain,topology,660,1159
+830,Cytoplasmic 4,Topological domain,topology,660,1159
+831,Cytoplasmic 4,Topological domain,topology,660,1159
+832,Cytoplasmic 4,Topological domain,topology,660,1159
+833,Cytoplasmic 4,Topological domain,topology,660,1159
+834,Cytoplasmic 4,Topological domain,topology,660,1159
+835,Cytoplasmic 4,Topological domain,topology,660,1159
+836,Cytoplasmic 4,Topological domain,topology,660,1159
+837,Cytoplasmic 4,Topological domain,topology,660,1159
+838,Cytoplasmic 4,Topological domain,topology,660,1159
+839,Cytoplasmic 4,Topological domain,topology,660,1159
+840,Cytoplasmic 4,Topological domain,topology,660,1159
+841,Cytoplasmic 4,Topological domain,topology,660,1159
+842,Cytoplasmic 4,Topological domain,topology,660,1159
+843,Cytoplasmic 4,Topological domain,topology,660,1159
+844,Cytoplasmic 4,Topological domain,topology,660,1159
+845,Cytoplasmic 4,Topological domain,topology,660,1159
+846,Cytoplasmic 4,Topological domain,topology,660,1159
+847,Cytoplasmic 4,Topological domain,topology,660,1159
+848,Cytoplasmic 4,Topological domain,topology,660,1159
+849,Cytoplasmic 4,Topological domain,topology,660,1159
+850,Cytoplasmic 4,Topological domain,topology,660,1159
+851,Cytoplasmic 4,Topological domain,topology,660,1159
+852,Cytoplasmic 4,Topological domain,topology,660,1159
+853,Cytoplasmic 4,Topological domain,topology,660,1159
+854,Cytoplasmic 4,Topological domain,topology,660,1159
+855,Cytoplasmic 4,Topological domain,topology,660,1159
+856,Cytoplasmic 4,Topological domain,topology,660,1159
+857,Cytoplasmic 4,Topological domain,topology,660,1159
+858,Cytoplasmic 4,Topological domain,topology,660,1159
+859,Cytoplasmic 4,Topological domain,topology,660,1159
+860,Cytoplasmic 4,Topological domain,topology,660,1159
+861,Cytoplasmic 4,Topological domain,topology,660,1159
+862,Cytoplasmic 4,Topological domain,topology,660,1159
+863,Cytoplasmic 4,Topological domain,topology,660,1159
+864,Cytoplasmic 4,Topological domain,topology,660,1159
+865,Cytoplasmic 4,Topological domain,topology,660,1159
+866,Cytoplasmic 4,Topological domain,topology,660,1159
+867,Cytoplasmic 4,Topological domain,topology,660,1159
+868,Cytoplasmic 4,Topological domain,topology,660,1159
+869,Cytoplasmic 4,Topological domain,topology,660,1159
+870,Cytoplasmic 4,Topological domain,topology,660,1159
+871,Cytoplasmic 4,Topological domain,topology,660,1159
+872,Cytoplasmic 4,Topological domain,topology,660,1159
+873,Cytoplasmic 4,Topological domain,topology,660,1159
+874,Cytoplasmic 4,Topological domain,topology,660,1159
+875,Cytoplasmic 4,Topological domain,topology,660,1159
+876,Cytoplasmic 4,Topological domain,topology,660,1159
+877,Cytoplasmic 4,Topological domain,topology,660,1159
+878,Cytoplasmic 4,Topological domain,topology,660,1159
+879,Cytoplasmic 4,Topological domain,topology,660,1159
+880,Cytoplasmic 4,Topological domain,topology,660,1159
+881,Cytoplasmic 4,Topological domain,topology,660,1159
+882,Cytoplasmic 4,Topological domain,topology,660,1159
+883,Cytoplasmic 4,Topological domain,topology,660,1159
+884,Cytoplasmic 4,Topological domain,topology,660,1159
+885,Cytoplasmic 4,Topological domain,topology,660,1159
+886,Cytoplasmic 4,Topological domain,topology,660,1159
+887,Cytoplasmic 4,Topological domain,topology,660,1159
+888,Cytoplasmic 4,Topological domain,topology,660,1159
+889,Cytoplasmic 4,Topological domain,topology,660,1159
+890,Cytoplasmic 4,Topological domain,topology,660,1159
+891,Cytoplasmic 4,Topological domain,topology,660,1159
+892,Cytoplasmic 4,Topological domain,topology,660,1159
+893,Cytoplasmic 4,Topological domain,topology,660,1159
+894,Cytoplasmic 4,Topological domain,topology,660,1159
+895,Cytoplasmic 4,Topological domain,topology,660,1159
+896,Cytoplasmic 4,Topological domain,topology,660,1159
+897,Cytoplasmic 4,Topological domain,topology,660,1159
+898,Cytoplasmic 4,Topological domain,topology,660,1159
+899,Cytoplasmic 4,Topological domain,topology,660,1159
+900,Cytoplasmic 4,Topological domain,topology,660,1159
+901,Cytoplasmic 4,Topological domain,topology,660,1159
+902,Cytoplasmic 4,Topological domain,topology,660,1159
+903,Cytoplasmic 4,Topological domain,topology,660,1159
+904,Cytoplasmic 4,Topological domain,topology,660,1159
+905,Cytoplasmic 4,Topological domain,topology,660,1159
+906,Cytoplasmic 4,Topological domain,topology,660,1159
+907,Cytoplasmic 4,Topological domain,topology,660,1159
+908,Cytoplasmic 4,Topological domain,topology,660,1159
+909,Cytoplasmic 4,Topological domain,topology,660,1159
+910,Cytoplasmic 4,Topological domain,topology,660,1159
+911,Cytoplasmic 4,Topological domain,topology,660,1159
+912,Cytoplasmic 4,Topological domain,topology,660,1159
+913,Cytoplasmic 4,Topological domain,topology,660,1159
+914,Cytoplasmic 4,Topological domain,topology,660,1159
+915,Cytoplasmic 4,Topological domain,topology,660,1159
+916,Cytoplasmic 4,Topological domain,topology,660,1159
+917,Cytoplasmic 4,Topological domain,topology,660,1159
+918,Cytoplasmic 4,Topological domain,topology,660,1159
+919,Cytoplasmic 4,Topological domain,topology,660,1159
+920,Cytoplasmic 4,Topological domain,topology,660,1159
+921,Cytoplasmic 4,Topological domain,topology,660,1159
+922,Cytoplasmic 4,Topological domain,topology,660,1159
+923,Cytoplasmic 4,Topological domain,topology,660,1159
+924,Cytoplasmic 4,Topological domain,topology,660,1159
+925,Cytoplasmic 4,Topological domain,topology,660,1159
+926,Cytoplasmic 4,Topological domain,topology,660,1159
+927,Cytoplasmic 4,Topological domain,topology,660,1159
+928,Cytoplasmic 4,Topological domain,topology,660,1159
+929,Cytoplasmic 4,Topological domain,topology,660,1159
+930,Cytoplasmic 4,Topological domain,topology,660,1159
+931,Cytoplasmic 4,Topological domain,topology,660,1159
+932,Cytoplasmic 4,Topological domain,topology,660,1159
+933,Cytoplasmic 4,Topological domain,topology,660,1159
+934,Cytoplasmic 4,Topological domain,topology,660,1159
+935,Cytoplasmic 4,Topological domain,topology,660,1159
+936,Cytoplasmic 4,Topological domain,topology,660,1159
+937,Cytoplasmic 4,Topological domain,topology,660,1159
+938,Cytoplasmic 4,Topological domain,topology,660,1159
+939,Cytoplasmic 4,Topological domain,topology,660,1159
+940,Cytoplasmic 4,Topological domain,topology,660,1159
+941,Cytoplasmic 4,Topological domain,topology,660,1159
+942,Cytoplasmic 4,Topological domain,topology,660,1159
+943,Cytoplasmic 4,Topological domain,topology,660,1159
+944,Cytoplasmic 4,Topological domain,topology,660,1159
+945,Cytoplasmic 4,Topological domain,topology,660,1159
+946,Cytoplasmic 4,Topological domain,topology,660,1159
+947,Cytoplasmic 4,Topological domain,topology,660,1159
+948,Cytoplasmic 4,Topological domain,topology,660,1159
+949,Cytoplasmic 4,Topological domain,topology,660,1159
+950,Cytoplasmic 4,Topological domain,topology,660,1159
+951,Cytoplasmic 4,Topological domain,topology,660,1159
+952,Cytoplasmic 4,Topological domain,topology,660,1159
+953,Cytoplasmic 4,Topological domain,topology,660,1159
+954,Cytoplasmic 4,Topological domain,topology,660,1159
+955,Cytoplasmic 4,Topological domain,topology,660,1159
+956,Cytoplasmic 4,Topological domain,topology,660,1159
+957,Cytoplasmic 4,Topological domain,topology,660,1159
+958,Cytoplasmic 4,Topological domain,topology,660,1159
+959,Cytoplasmic 4,Topological domain,topology,660,1159
+960,Cytoplasmic 4,Topological domain,topology,660,1159
+961,Cytoplasmic 4,Topological domain,topology,660,1159
+962,Cytoplasmic 4,Topological domain,topology,660,1159
+963,Cytoplasmic 4,Topological domain,topology,660,1159
+964,Cytoplasmic 4,Topological domain,topology,660,1159
+965,Cytoplasmic 4,Topological domain,topology,660,1159
+966,Cytoplasmic 4,Topological domain,topology,660,1159
+967,Cytoplasmic 4,Topological domain,topology,660,1159
+968,Cytoplasmic 4,Topological domain,topology,660,1159
+969,Cytoplasmic 4,Topological domain,topology,660,1159
+970,Cytoplasmic 4,Topological domain,topology,660,1159
+971,Cytoplasmic 4,Topological domain,topology,660,1159
+972,Cytoplasmic 4,Topological domain,topology,660,1159
+973,Cytoplasmic 4,Topological domain,topology,660,1159
+974,Cytoplasmic 4,Topological domain,topology,660,1159
+975,Cytoplasmic 4,Topological domain,topology,660,1159
+976,Cytoplasmic 4,Topological domain,topology,660,1159
+977,Cytoplasmic 4,Topological domain,topology,660,1159
+978,Cytoplasmic 4,Topological domain,topology,660,1159
+979,Cytoplasmic 4,Topological domain,topology,660,1159
+980,Cytoplasmic 4,Topological domain,topology,660,1159
+981,Cytoplasmic 4,Topological domain,topology,660,1159
+982,Cytoplasmic 4,Topological domain,topology,660,1159
+983,Cytoplasmic 4,Topological domain,topology,660,1159
+984,Cytoplasmic 4,Topological domain,topology,660,1159
+985,Cytoplasmic 4,Topological domain,topology,660,1159
+986,Cytoplasmic 4,Topological domain,topology,660,1159
+987,Cytoplasmic 4,Topological domain,topology,660,1159
+988,Cytoplasmic 4,Topological domain,topology,660,1159
+989,Cytoplasmic 4,Topological domain,topology,660,1159
+990,Cytoplasmic 4,Topological domain,topology,660,1159
+991,Cytoplasmic 4,Topological domain,topology,660,1159
+992,Cytoplasmic 4,Topological domain,topology,660,1159
+993,Cytoplasmic 4,Topological domain,topology,660,1159
+994,Cytoplasmic 4,Topological domain,topology,660,1159
+995,Cytoplasmic 4,Topological domain,topology,660,1159
+996,Cytoplasmic 4,Topological domain,topology,660,1159
+997,Cytoplasmic 4,Topological domain,topology,660,1159
+998,Cytoplasmic 4,Topological domain,topology,660,1159
+999,Cytoplasmic 4,Topological domain,topology,660,1159
+1000,Cytoplasmic 4,Topological domain,topology,660,1159
+1001,Cytoplasmic 4,Topological domain,topology,660,1159
+1002,Cytoplasmic 4,Topological domain,topology,660,1159
+1003,Cytoplasmic 4,Topological domain,topology,660,1159
+1004,Cytoplasmic 4,Topological domain,topology,660,1159
+1005,Cytoplasmic 4,Topological domain,topology,660,1159
+1006,Cytoplasmic 4,Topological domain,topology,660,1159
+1007,Cytoplasmic 4,Topological domain,topology,660,1159
+1008,Cytoplasmic 4,Topological domain,topology,660,1159
+1009,Cytoplasmic 4,Topological domain,topology,660,1159
+1010,Cytoplasmic 4,Topological domain,topology,660,1159
+1011,Cytoplasmic 4,Topological domain,topology,660,1159
+1012,Cytoplasmic 4,Topological domain,topology,660,1159
+1013,Cytoplasmic 4,Topological domain,topology,660,1159
+1014,Cytoplasmic 4,Topological domain,topology,660,1159
+1015,Cytoplasmic 4,Topological domain,topology,660,1159
+1016,Cytoplasmic 4,Topological domain,topology,660,1159
+1017,Cytoplasmic 4,Topological domain,topology,660,1159
+1018,Cytoplasmic 4,Topological domain,topology,660,1159
+1019,Cytoplasmic 4,Topological domain,topology,660,1159
+1020,Cytoplasmic 4,Topological domain,topology,660,1159
+1021,Cytoplasmic 4,Topological domain,topology,660,1159
+1022,Cytoplasmic 4,Topological domain,topology,660,1159
+1023,Cytoplasmic 4,Topological domain,topology,660,1159
+1024,Cytoplasmic 4,Topological domain,topology,660,1159
+1025,Cytoplasmic 4,Topological domain,topology,660,1159
+1026,Cytoplasmic 4,Topological domain,topology,660,1159
+1027,Cytoplasmic 4,Topological domain,topology,660,1159
+1028,Cytoplasmic 4,Topological domain,topology,660,1159
+1029,Cytoplasmic 4,Topological domain,topology,660,1159
+1030,Cytoplasmic 4,Topological domain,topology,660,1159
+1031,Cytoplasmic 4,Topological domain,topology,660,1159
+1032,Cytoplasmic 4,Topological domain,topology,660,1159
+1033,Cytoplasmic 4,Topological domain,topology,660,1159
+1034,Cytoplasmic 4,Topological domain,topology,660,1159
+1035,Cytoplasmic 4,Topological domain,topology,660,1159
+1036,Cytoplasmic 4,Topological domain,topology,660,1159
+1037,Cytoplasmic 4,Topological domain,topology,660,1159
+1038,Cytoplasmic 4,Topological domain,topology,660,1159
+1039,Cytoplasmic 4,Topological domain,topology,660,1159
+1040,Cytoplasmic 4,Topological domain,topology,660,1159
+1041,Cytoplasmic 4,Topological domain,topology,660,1159
+1042,Cytoplasmic 4,Topological domain,topology,660,1159
+1043,Cytoplasmic 4,Topological domain,topology,660,1159
+1044,Cytoplasmic 4,Topological domain,topology,660,1159
+1045,Cytoplasmic 4,Topological domain,topology,660,1159
+1046,Cytoplasmic 4,Topological domain,topology,660,1159
+1047,Cytoplasmic 4,Topological domain,topology,660,1159
+1048,Cytoplasmic 4,Topological domain,topology,660,1159
+1049,Cytoplasmic 4,Topological domain,topology,660,1159
+1050,Cytoplasmic 4,Topological domain,topology,660,1159
+1051,Cytoplasmic 4,Topological domain,topology,660,1159
+1052,Cytoplasmic 4,Topological domain,topology,660,1159
+1053,Cytoplasmic 4,Topological domain,topology,660,1159
+1054,Cytoplasmic 4,Topological domain,topology,660,1159
+1055,Cytoplasmic 4,Topological domain,topology,660,1159
+1056,Cytoplasmic 4,Topological domain,topology,660,1159
+1057,Cytoplasmic 4,Topological domain,topology,660,1159
+1058,Cytoplasmic 4,Topological domain,topology,660,1159
+1059,Cytoplasmic 4,Topological domain,topology,660,1159
+1060,Cytoplasmic 4,Topological domain,topology,660,1159
+1061,Cytoplasmic 4,Topological domain,topology,660,1159
+1062,Cytoplasmic 4,Topological domain,topology,660,1159
+1063,Cytoplasmic 4,Topological domain,topology,660,1159
+1064,Cytoplasmic 4,Topological domain,topology,660,1159
+1065,Cytoplasmic 4,Topological domain,topology,660,1159
+1066,Cytoplasmic 4,Topological domain,topology,660,1159
+1067,Cytoplasmic 4,Topological domain,topology,660,1159
+1068,Cytoplasmic 4,Topological domain,topology,660,1159
+1069,Cytoplasmic 4,Topological domain,topology,660,1159
+1070,Cytoplasmic 4,Topological domain,topology,660,1159
+1071,Cytoplasmic 4,Topological domain,topology,660,1159
+1072,Cytoplasmic 4,Topological domain,topology,660,1159
+1073,Cytoplasmic 4,Topological domain,topology,660,1159
+1074,Cytoplasmic 4,Topological domain,topology,660,1159
+1075,Cytoplasmic 4,Topological domain,topology,660,1159
+1076,Cytoplasmic 4,Topological domain,topology,660,1159
+1077,Cytoplasmic 4,Topological domain,topology,660,1159
+1078,Cytoplasmic 4,Topological domain,topology,660,1159
+1079,Cytoplasmic 4,Topological domain,topology,660,1159
+1080,Cytoplasmic 4,Topological domain,topology,660,1159
+1081,Cytoplasmic 4,Topological domain,topology,660,1159
+1082,Cytoplasmic 4,Topological domain,topology,660,1159
+1083,Cytoplasmic 4,Topological domain,topology,660,1159
+1084,Cytoplasmic 4,Topological domain,topology,660,1159
+1085,Cytoplasmic 4,Topological domain,topology,660,1159
+1086,Cytoplasmic 4,Topological domain,topology,660,1159
+1087,Cytoplasmic 4,Topological domain,topology,660,1159
+1088,Cytoplasmic 4,Topological domain,topology,660,1159
+1089,Cytoplasmic 4,Topological domain,topology,660,1159
+1090,Cytoplasmic 4,Topological domain,topology,660,1159
+1091,Cytoplasmic 4,Topological domain,topology,660,1159
+1092,Cytoplasmic 4,Topological domain,topology,660,1159
+1093,Cytoplasmic 4,Topological domain,topology,660,1159
+1094,Cytoplasmic 4,Topological domain,topology,660,1159
+1095,Cytoplasmic 4,Topological domain,topology,660,1159
+1096,Cytoplasmic 4,Topological domain,topology,660,1159
+1097,Cytoplasmic 4,Topological domain,topology,660,1159
+1098,Cytoplasmic 4,Topological domain,topology,660,1159
+1099,Cytoplasmic 4,Topological domain,topology,660,1159
+1100,Cytoplasmic 4,Topological domain,topology,660,1159
+1101,Cytoplasmic 4,Topological domain,topology,660,1159
+1102,Cytoplasmic 4,Topological domain,topology,660,1159
+1103,Cytoplasmic 4,Topological domain,topology,660,1159
+1104,Cytoplasmic 4,Topological domain,topology,660,1159
+1105,Cytoplasmic 4,Topological domain,topology,660,1159
+1106,Cytoplasmic 4,Topological domain,topology,660,1159
+1107,Cytoplasmic 4,Topological domain,topology,660,1159
+1108,Cytoplasmic 4,Topological domain,topology,660,1159
+1109,Cytoplasmic 4,Topological domain,topology,660,1159
+1110,Cytoplasmic 4,Topological domain,topology,660,1159
+1111,Cytoplasmic 4,Topological domain,topology,660,1159
+1112,Cytoplasmic 4,Topological domain,topology,660,1159
+1113,Cytoplasmic 4,Topological domain,topology,660,1159
+1114,Cytoplasmic 4,Topological domain,topology,660,1159
+1115,Cytoplasmic 4,Topological domain,topology,660,1159
+1116,Cytoplasmic 4,Topological domain,topology,660,1159
+1117,Cytoplasmic 4,Topological domain,topology,660,1159
+1118,Cytoplasmic 4,Topological domain,topology,660,1159
+1119,Cytoplasmic 4,Topological domain,topology,660,1159
+1120,Cytoplasmic 4,Topological domain,topology,660,1159
+1121,Cytoplasmic 4,Topological domain,topology,660,1159
+1122,Cytoplasmic 4,Topological domain,topology,660,1159
+1123,Cytoplasmic 4,Topological domain,topology,660,1159
+1124,Cytoplasmic 4,Topological domain,topology,660,1159
+1125,Cytoplasmic 4,Topological domain,topology,660,1159
+1126,Cytoplasmic 4,Topological domain,topology,660,1159
+1127,Cytoplasmic 4,Topological domain,topology,660,1159
+1128,Cytoplasmic 4,Topological domain,topology,660,1159
+1129,Cytoplasmic 4,Topological domain,topology,660,1159
+1130,Cytoplasmic 4,Topological domain,topology,660,1159
+1131,Cytoplasmic 4,Topological domain,topology,660,1159
+1132,Cytoplasmic 4,Topological domain,topology,660,1159
+1133,Cytoplasmic 4,Topological domain,topology,660,1159
+1134,Cytoplasmic 4,Topological domain,topology,660,1159
+1135,Cytoplasmic 4,Topological domain,topology,660,1159
+1136,Cytoplasmic 4,Topological domain,topology,660,1159
+1137,Cytoplasmic 4,Topological domain,topology,660,1159
+1138,Cytoplasmic 4,Topological domain,topology,660,1159
+1139,Cytoplasmic 4,Topological domain,topology,660,1159
+1140,Cytoplasmic 4,Topological domain,topology,660,1159
+1141,Cytoplasmic 4,Topological domain,topology,660,1159
+1142,Cytoplasmic 4,Topological domain,topology,660,1159
+1143,Cytoplasmic 4,Topological domain,topology,660,1159
+1144,Cytoplasmic 4,Topological domain,topology,660,1159
+1145,Cytoplasmic 4,Topological domain,topology,660,1159
+1146,Cytoplasmic 4,Topological domain,topology,660,1159
+1147,Cytoplasmic 4,Topological domain,topology,660,1159
+1148,Cytoplasmic 4,Topological domain,topology,660,1159
+1149,Cytoplasmic 4,Topological domain,topology,660,1159
+1150,Cytoplasmic 4,Topological domain,topology,660,1159
+1151,Cytoplasmic 4,Topological domain,topology,660,1159
+1152,Cytoplasmic 4,Topological domain,topology,660,1159
+1153,Cytoplasmic 4,Topological domain,topology,660,1159
+1154,Cytoplasmic 4,Topological domain,topology,660,1159
+1155,Cytoplasmic 4,Topological domain,topology,660,1159
+1156,Cytoplasmic 4,Topological domain,topology,660,1159
+1157,Cytoplasmic 4,Topological domain,topology,660,1159
+1158,Cytoplasmic 4,Topological domain,topology,660,1159
+1159,Cytoplasmic 4,Topological domain,topology,660,1159
